@@ -6,4 +6,3 @@ DOMAIN,ocsp.verisign.net,Apple
 DOMAIN-SUFFIX,apps.apple.com,Apple,force-remote-dns
 DOMAIN-SUFFIX,itunes.apple.com,Apple,force-remote-dns
 DOMAIN-SUFFIX,blobstore.apple.com,Apple
-PROCESS-NAME,News,Apple
