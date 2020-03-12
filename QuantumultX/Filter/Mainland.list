@@ -129,3 +129,21 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zimuzu.tv
 DOMAIN-SUFFIX,zoho.com
+
+# > Apple-direct
+DOMAIN,safebrowsing.urlsec.qq.com
+DOMAIN,safebrowsing.googleapis.com
+USER-AGENT,AppStore*,DIRECT
+DOMAIN-SUFFIX,mzstatic.com
+PROCESS-NAME,storedownloadd
+USER-AGENT,cloudd*
+AND,((NOT,((USER-AGENT,*com.apple.WebKit*))),(USER-AGENT,*com.apple.*))
+DOMAIN-SUFFIX,music.apple.com,force-remote-dns
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple-cloudkit.com
