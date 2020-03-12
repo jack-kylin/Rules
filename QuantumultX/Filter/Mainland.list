@@ -133,7 +133,7 @@ USER-AGENT,AppStore*,Mainland
 DOMAIN-SUFFIX,mzstatic.com,Mainland
 #PROCESS-NAME,storedownloadd,Mainland
 USER-AGENT,cloudd*,Mainland
-AND,((NOT,((USER-AGENT,*com.apple.WebKit*))),(USER-AGENT,*com.apple.*)),Mainland
+#AND,((NOT,((USER-AGENT,*com.apple.WebKit*))),(USER-AGENT,*com.apple.*)),Mainland
 DOMAIN-SUFFIX,music.apple.com,force-remote-dns,Mainland
 DOMAIN-SUFFIX,icloud.com,Mainland
 DOMAIN-SUFFIX,icloud-content.com,Mainland
