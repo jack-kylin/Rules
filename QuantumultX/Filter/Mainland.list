@@ -148,3 +148,6 @@ DOMAIN-SUFFIX,aaplimg.com,Mainland
 DOMAIN-SUFFIX,cdn-apple.com,Mainland
 DOMAIN-SUFFIX,apple.com,Mainland
 DOMAIN-SUFFIX,apple-cloudkit.com,Mainland
+
+# GEOIP 
+GEOIP,CN,Mainland
