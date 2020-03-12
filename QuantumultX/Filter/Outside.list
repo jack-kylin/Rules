@@ -266,3 +266,10 @@ IP-CIDR,149.154.160.0/22,Outside, no-resolve
 IP-CIDR,149.154.164.0/22,Outside, no-resolve
 IP-CIDR,149.154.168.0/22,Outside, no-resolve
 IP-CIDR,149.154.172.0/22,Outside, no-resolve
+
+# > YouTube
+USER-AGENT,com.google.ios.youtube*,Outside
+USER-AGENT,YouTube*,Outside
+DOMAIN-SUFFIX,googlevideo.com,Outside
+DOMAIN-SUFFIX,youtube.com,Outside
+DOMAIN,youtubei.googleapis.com,Outside
