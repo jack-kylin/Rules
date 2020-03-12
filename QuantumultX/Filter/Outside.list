@@ -299,8 +299,8 @@ DOMAIN-SUFFIX,youtu.be,force-remote-dns,Outside
 DOMAIN-KEYWORD,whatsapp,force-remote-dns,Outside
 
 ## 常见国外域名列表
-DOMAIN-SUFFIX,9to5mac.com,Outside,Outside
-DOMAIN-SUFFIX,abpchina.org,Outside,Outside
+DOMAIN-SUFFIX,9to5mac.com,Outside
+DOMAIN-SUFFIX,abpchina.org,Outside
 DOMAIN-SUFFIX,adblockplus.org,Outside
 DOMAIN-SUFFIX,adobe.com,Outside
 DOMAIN-SUFFIX,alfredapp.com,Outside
@@ -514,7 +514,7 @@ DOMAIN-SUFFIX,tumblr.co,Outside
 DOMAIN-SUFFIX,tumblr.com,Outside
 DOMAIN-SUFFIX,tweetdeck.com,Outside
 DOMAIN-SUFFIX,tweetmarker.net,Outside
-DOMAIN-SUFFIX,twitch.tv,force-remote-dns,Outside
+DOMAIN-SUFFIX,twitch.tv,Outside,force-remote-dns
 DOMAIN-SUFFIX,txmblr.com,Outside
 DOMAIN-SUFFIX,typekit.net,Outside
 DOMAIN-SUFFIX,ubertags.com,Outside
