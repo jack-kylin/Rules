@@ -2,6 +2,7 @@ USER-AGENT,Microsoft*,Microsoft
 DOMAIN-KEYWORD,microsoft,Microsoft
 DOMAIN-KEYWORD,skype,Microsoft
 DOMAIN-SUFFIX,ms,Microsoft
+DOMAIN-SUFFIX,1drv.com,Microsoft
 DOMAIN-SUFFIX,bing.com,Microsoft
 DOMAIN-SUFFIX,bing.net,Microsoft
 DOMAIN-SUFFIX,hockeyapp.net,Microsoft
