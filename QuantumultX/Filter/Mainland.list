@@ -131,7 +131,7 @@ DOMAIN,safebrowsing.urlsec.qq.com,Mainland
 DOMAIN,safebrowsing.googleapis.com,Mainland
 USER-AGENT,AppStore*,Mainland
 DOMAIN-SUFFIX,mzstatic.com,Mainland
-PROCESS-NAME,storedownloadd,Mainland
+#PROCESS-NAME,storedownloadd,Mainland
 USER-AGENT,cloudd*,Mainland
 AND,((NOT,((USER-AGENT,*com.apple.WebKit*))),(USER-AGENT,*com.apple.*)),Mainland
 DOMAIN-SUFFIX,music.apple.com,force-remote-dns,Mainland
