@@ -1,27 +1,9 @@
-# > Apple-direct
-DOMAIN,safebrowsing.urlsec.qq.com,DIRECT
-DOMAIN,safebrowsing.googleapis.com,DIRECT
-USER-AGENT,AppStore*,DIRECT,DIRECT
-DOMAIN-SUFFIX,mzstatic.com,DIRECT
-PROCESS-NAME,storedownloadd,DIRECT
-USER-AGENT,cloudd*,DIRECT
-AND,((NOT,((USER-AGENT,*com.apple.WebKit*))),(USER-AGENT,*com.apple.*)),DIRECT
-DOMAIN-SUFFIX,music.apple.com,force-remote-dns,DIRECT
-DOMAIN-SUFFIX,icloud.com,DIRECT
-DOMAIN-SUFFIX,icloud-content.com,DIRECT
-DOMAIN-SUFFIX,me.com,DIRECT
-DOMAIN-SUFFIX,akadns.net,DIRECT
-DOMAIN-SUFFIX,aaplimg.com,DIRECT
-DOMAIN-SUFFIX,cdn-apple.com,DIRECT
-DOMAIN-SUFFIX,apple.com,DIRECT
-DOMAIN-SUFFIX,apple-cloudkit.com,DIRECT
-
 # > Apple-proxy
-DOMAIN,ocsp.apple.com,Apple
-DOMAIN-SUFFIX,digicert.com,Apple
-DOMAIN-SUFFIX,entrust.net,Apple
-DOMAIN,ocsp.verisign.net,Apple
-DOMAIN-SUFFIX,apps.apple.com,force-remote-dns,Apple
-DOMAIN-SUFFIX,itunes.apple.com,force-remote-dns,Apple
-DOMAIN-SUFFIX,blobstore.apple.com,Apple
-PROCESS-NAME,News,Apple
+DOMAIN,ocsp.apple.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,entrust.net
+DOMAIN,ocsp.verisign.net
+DOMAIN-SUFFIX,apps.apple.com,force-remote-dns
+DOMAIN-SUFFIX,itunes.apple.com,force-remote-dns
+DOMAIN-SUFFIX,blobstore.apple.com
+PROCESS-NAME,News
