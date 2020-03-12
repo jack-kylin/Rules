@@ -133,7 +133,7 @@ DOMAIN-SUFFIX,zoho.com
 # > Apple-direct
 DOMAIN,safebrowsing.urlsec.qq.com
 DOMAIN,safebrowsing.googleapis.com
-USER-AGENT,AppStore*,DIRECT
+USER-AGENT,AppStore*
 DOMAIN-SUFFIX,mzstatic.com
 PROCESS-NAME,storedownloadd
 USER-AGENT,cloudd*
