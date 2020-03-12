@@ -3,6 +3,7 @@ HOST-KEYWORD,microsoft
 HOST-SUFFIX,ms
 HOST-SUFFIX,bing.com
 HOST-SUFFIX,bing.net
+HOST-SUFFIX,hockeyapp.net
 HOST-SUFFIX,hotmail.com
 HOST-SUFFIX,live.com
 HOST-SUFFIX,live.net
@@ -15,6 +16,7 @@ HOST-SUFFIX,msn.com
 HOST-SUFFIX,office.com
 HOST-SUFFIX,office.net
 HOST-SUFFIX,office365.com
+HOST-SUFFIX,onedrive.com
 HOST-SUFFIX,onenote.com 
 HOST-SUFFIX,onenote.net
 HOST-SUFFIX,outlook.com
