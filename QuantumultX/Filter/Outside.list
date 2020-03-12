@@ -273,3 +273,9 @@ USER-AGENT,YouTube*,Outside
 DOMAIN-SUFFIX,googlevideo.com,Outside
 DOMAIN-SUFFIX,youtube.com,Outside
 DOMAIN,youtubei.googleapis.com,Outside
+
+# > Spotify
+PROCESS-NAME,Spotify,Outside
+USER-AGENT,*Spotify*,Outside
+DOMAIN-SUFFIX,scdn.co,Outside
+DOMAIN-SUFFIX,spotify.com,Outside
