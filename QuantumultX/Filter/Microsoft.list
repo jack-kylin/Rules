@@ -1,5 +1,6 @@
 USER-AGENT,Microsoft*,Microsoft
 DOMAIN-KEYWORD,microsoft,Microsoft
+DOMAIN-KEYWORD,skype,Microsoft
 DOMAIN-SUFFIX,ms,Microsoft
 DOMAIN-SUFFIX,bing.com,Microsoft
 DOMAIN-SUFFIX,bing.net,Microsoft
@@ -20,6 +21,9 @@ DOMAIN-SUFFIX,onedrive.com,Microsoft
 DOMAIN-SUFFIX,onenote.com,Microsoft
 DOMAIN-SUFFIX,onenote.net,Microsoft
 DOMAIN-SUFFIX,outlook.com,Microsoft
+DOMAIN-SUFFIX,outlookmobile.com,Microsoft
+DOMAIN-SUFFIX,skype.com,Microsoft
+DOMAIN-SUFFIX,skypeassets.com,Microsoft
 DOMAIN-SUFFIX,visualstudio.com,Microsoft
 DOMAIN-SUFFIX,windows.com,Microsoft
 DOMAIN-SUFFIX,windows.net,Microsoft
