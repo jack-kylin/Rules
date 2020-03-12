@@ -134,7 +134,7 @@ DOMAIN-SUFFIX,mzstatic.com,Mainland
 #PROCESS-NAME,storedownloadd,Mainland
 USER-AGENT,cloudd*,Mainland
 #AND,((NOT,((USER-AGENT,*com.apple.WebKit*))),(USER-AGENT,*com.apple.*)),Mainland
-DOMAIN-SUFFIX,music.apple.com,force-remote-dns,Mainland
+DOMAIN-SUFFIX,music.apple.com,Mainland,force-remote-dns
 DOMAIN-SUFFIX,icloud.com,Mainland
 DOMAIN-SUFFIX,icloud-content.com,Mainland
 DOMAIN-SUFFIX,me.com,Mainland
