@@ -283,20 +283,20 @@ DOMAIN-SUFFIX,spotify.com,Outside
   
 
 ## 抗 DNS 污染
-DOMAIN-KEYWORD,amazon,force-remote-dns,Outside
-DOMAIN-KEYWORD,google,force-remote-dns,Outside
-DOMAIN-KEYWORD,gmail,force-remote-dns,Outside
-DOMAIN-KEYWORD,youtube,force-remote-dns,Outside
-DOMAIN-KEYWORD,facebook,force-remote-dns,Outside
-DOMAIN-SUFFIX,fb.me,force-remote-dns,Outside
-DOMAIN-SUFFIX,fbcdn.net,force-remote-dns,Outside
-DOMAIN-KEYWORD,twitter,force-remote-dns,Outside
-DOMAIN-KEYWORD,instagram,force-remote-dns,Outside
-DOMAIN-KEYWORD,dropbox,force-remote-dns,Outside
-DOMAIN-SUFFIX,twimg.com,force-remote-dns,Outside
-DOMAIN-KEYWORD,blogspot,force-remote-dns,Outside
-DOMAIN-SUFFIX,youtu.be,force-remote-dns,Outside
-DOMAIN-KEYWORD,whatsapp,force-remote-dns,Outside
+DOMAIN-KEYWORD,amazon,Outside,force-remote-dns
+DOMAIN-KEYWORD,google,Outside,force-remote-dns
+DOMAIN-KEYWORD,gmail,Outside,force-remote-dns
+DOMAIN-KEYWORD,youtube,Outside,force-remote-dns
+DOMAIN-KEYWORD,facebook,Outside,force-remote-dns
+DOMAIN-SUFFIX,fb.me,Outside,force-remote-dns
+DOMAIN-SUFFIX,fbcdn.net,Outside,force-remote-dns
+DOMAIN-KEYWORD,twitter,Outside,force-remote-dns
+DOMAIN-KEYWORD,instagram,Outside,force-remote-dns
+DOMAIN-KEYWORD,dropbox,Outside,force-remote-dns
+DOMAIN-SUFFIX,twimg.com,Outside,force-remote-dns
+DOMAIN-KEYWORD,blogspot,Outside,force-remote-dns
+DOMAIN-SUFFIX,youtu.be,Outside,force-remote-dns
+DOMAIN-KEYWORD,whatsapp,Outside,force-remote-dns
 
 ## 常见国外域名列表
 DOMAIN-SUFFIX,9to5mac.com,Outside
