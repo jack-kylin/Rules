@@ -320,7 +320,6 @@ DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azurewebsites.net
-DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,bit.com
 DOMAIN-SUFFIX,bit.ly
@@ -401,8 +400,6 @@ DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gvt0.com
-DOMAIN-SUFFIX,hockeyapp.net
-DOMAIN-SUFFIX,hotmail.com
 DOMAIN-SUFFIX,icons8.com
 DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,ift.tt
@@ -430,8 +427,6 @@ DOMAIN-SUFFIX,libsyn.com
 DOMAIN-SUFFIX,linode.com
 DOMAIN-SUFFIX,lithium.com
 DOMAIN-SUFFIX,littlehj.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,macid.co
@@ -443,11 +438,9 @@ DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,megaupload.com
-DOMAIN-SUFFIX,microsofttranslator.com
 DOMAIN-SUFFIX,mindnode.com
 DOMAIN-SUFFIX,mobile01.com
 DOMAIN-SUFFIX,modmyi.com
-DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,myfontastic.com
 DOMAIN-SUFFIX,name.com
 DOMAIN-SUFFIX,nextmedia.com
@@ -456,14 +449,11 @@ DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,omnigroup.com
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,ooyala.com
 DOMAIN-SUFFIX,openvpn.net
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,orkut.com
 DOMAIN-SUFFIX,osxdaily.com
-DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,ow.ly
 DOMAIN-SUFFIX,paddleapi.com
 DOMAIN-SUFFIX,parallels.com
@@ -549,8 +539,6 @@ DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.com
 DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,windows.com
-DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,wire.com
 DOMAIN-SUFFIX,wordpress.com
 DOMAIN-SUFFIX,workflowy.com
