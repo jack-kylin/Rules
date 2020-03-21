@@ -1,4 +1,5 @@
 USER-AGENT,Microsoft*,Microsoft
+DOMAIN-SUFFIX,onedrive.live.com,Proxy
 DOMAIN-KEYWORD,microsoft,Microsoft
 DOMAIN-KEYWORD,skype,Microsoft
 DOMAIN-SUFFIX,ms,Microsoft
