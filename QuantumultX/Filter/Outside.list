@@ -305,7 +305,7 @@ DOMAIN-SUFFIX,adblockplus.org,Outside
 DOMAIN-SUFFIX,adobe.com,Outside
 DOMAIN-SUFFIX,alfredapp.com,Outside
 DOMAIN-SUFFIX,amplitude.com,Outside
-DOMAIN-SUFFIX,ampproject.org,Outside
+DOMAIN-KEYWORD,ampproject,Outside
 DOMAIN-SUFFIX,android.com,Outside
 DOMAIN-SUFFIX,angularjs.org,Outside
 DOMAIN-SUFFIX,aolcdn.com,Outside
