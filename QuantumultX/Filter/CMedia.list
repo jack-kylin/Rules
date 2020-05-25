@@ -87,6 +87,7 @@ USER-AGENT,qqlive4iphone*,CMedia
 USER-AGENT,TencentMidasConnect*,CMedia
 HOST-SUFFIX,v.qq.com,CMedia
 HOST-SUFFIX,video.qq.com,CMedia
+HOST-SUFFIX,v.smtcdns.com,CMedia
 
 # > Xiami Music
 USER-AGENT,walkman*,CMedia
