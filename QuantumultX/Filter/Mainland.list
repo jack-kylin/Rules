@@ -73,7 +73,7 @@ DOMAIN-SUFFIX,biligame.net,Mainland
 DOMAIN-SUFFIX,bilivideo.com,Mainland
 DOMAIN-SUFFIX,hdslb.com,Mainland
 DOMAIN-SUFFIX,im9.com,Mainland
-DOMAIN-SUFFIX,smtcdns.net
+DOMAIN-SUFFIX,smtcdns.net,Mainland
 
 # > IQIYI
 USER-AGENT,QIYI*,Mainland
