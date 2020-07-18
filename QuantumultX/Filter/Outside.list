@@ -1,271 +1,191 @@
-# > WhatsApp
-DOMAIN-SUFFIX,whatsapp.com,Outside,force-remote-dns
-DOMAIN-SUFFIX,whatsapp.net,Outside,force-remote-dns
-IP-CIDR,31.13.64.51/32,Outside, no-resolve
-IP-CIDR,31.13.64.53/32,Outside, no-resolve
-IP-CIDR,31.13.65.49/32,Outside, no-resolve
-IP-CIDR,31.13.65.50/32,Outside, no-resolve
-IP-CIDR,31.13.66.51/32,Outside, no-resolve
-IP-CIDR,31.13.66.56/32,Outside, no-resolve
-IP-CIDR,31.13.67.52/31,Outside, no-resolve
-IP-CIDR,31.13.68.48/32,Outside, no-resolve
-IP-CIDR,31.13.68.52/32,Outside, no-resolve
-IP-CIDR,31.13.69.60/31,Outside, no-resolve
-IP-CIDR,31.13.70.49/32,Outside, no-resolve
-IP-CIDR,31.13.70.50/32,Outside, no-resolve
-IP-CIDR,31.13.71.49/32,Outside, no-resolve
-IP-CIDR,31.13.71.50/32,Outside, no-resolve
-IP-CIDR,31.13.72.48/32,Outside, no-resolve
-IP-CIDR,31.13.72.52/32,Outside, no-resolve
-IP-CIDR,31.13.73.52/31,Outside, no-resolve
-IP-CIDR,31.13.74.52/31,Outside, no-resolve
-IP-CIDR,31.13.75.60/31,Outside, no-resolve
-IP-CIDR,31.13.76.60/31,Outside, no-resolve
-IP-CIDR,31.13.77.60/31,Outside, no-resolve
-IP-CIDR,31.13.78.60/31,Outside, no-resolve
-IP-CIDR,31.13.79.53/32,Outside, no-resolve
-IP-CIDR,31.13.79.54/32,Outside, no-resolve
-IP-CIDR,31.13.80.48/32,Outside, no-resolve
-IP-CIDR,31.13.80.53/32,Outside, no-resolve
-IP-CIDR,31.13.81.48/32,Outside, no-resolve
-IP-CIDR,31.13.81.53/32,Outside, no-resolve
-IP-CIDR,31.13.82.51/32,Outside, no-resolve
-IP-CIDR,31.13.82.55/32,Outside, no-resolve
-IP-CIDR,31.13.83.49/32,Outside, no-resolve
-IP-CIDR,31.13.83.51/32,Outside, no-resolve
-IP-CIDR,31.13.84.49/32,Outside, no-resolve
-IP-CIDR,31.13.84.51/32,Outside, no-resolve
-IP-CIDR,31.13.85.49/32,Outside, no-resolve
-IP-CIDR,31.13.85.51/32,Outside, no-resolve
-IP-CIDR,31.13.86.49/32,Outside, no-resolve
-IP-CIDR,31.13.86.51/32,Outside, no-resolve
-IP-CIDR,31.13.87.48/32,Outside, no-resolve
-IP-CIDR,31.13.87.51/32,Outside, no-resolve
-IP-CIDR,31.13.88.60/31,Outside, no-resolve
-IP-CIDR,31.13.89.53/32,Outside, no-resolve
-IP-CIDR,31.13.89.54/32,Outside, no-resolve
-IP-CIDR,31.13.90.49/32,Outside, no-resolve
-IP-CIDR,31.13.90.51/32,Outside, no-resolve
-IP-CIDR,31.13.91.60/31,Outside, no-resolve
-IP-CIDR,31.13.92.48/32,Outside, no-resolve
-IP-CIDR,31.13.92.52/32,Outside, no-resolve
-IP-CIDR,31.13.93.53/32,Outside, no-resolve
-IP-CIDR,31.13.93.54/32,Outside, no-resolve
-IP-CIDR,31.13.94.52/32,Outside, no-resolve
-IP-CIDR,31.13.94.54/32,Outside, no-resolve
-IP-CIDR,31.13.95.50/32,Outside, no-resolve
-IP-CIDR,31.13.95.63/32,Outside, no-resolve
-IP-CIDR,50.22.240.160/27,Outside, no-resolve
-IP-CIDR,50.23.90.128/27,Outside, no-resolve
-IP-CIDR,66.111.48.12/32,Outside, no-resolve
-IP-CIDR,66.111.49.12/32,Outside, no-resolve
-IP-CIDR,69.171.239.11/32,Outside, no-resolve
-IP-CIDR,69.171.250.52/32,Outside, no-resolve
-IP-CIDR,69.171.250.54/32,Outside, no-resolve
-IP-CIDR,69.171.255.11/32,Outside, no-resolve
-IP-CIDR,102.132.96.54/31,Outside, no-resolve
-IP-CIDR,102.132.97.54/31,Outside, no-resolve
-IP-CIDR,102.132.98.60/31,Outside, no-resolve
-IP-CIDR,102.132.99.60/31,Outside, no-resolve
-IP-CIDR,102.132.100.60/31,Outside, no-resolve
-IP-CIDR,102.132.101.60/31,Outside, no-resolve
-IP-CIDR,102.132.102.60/31,Outside, no-resolve
-IP-CIDR,102.132.103.60/31,Outside, no-resolve
-IP-CIDR,102.132.104.60/31,Outside, no-resolve
-IP-CIDR,102.132.105.60/31,Outside, no-resolve
-IP-CIDR,102.132.106.60/31,Outside, no-resolve
-IP-CIDR,102.132.107.60/31,Outside, no-resolve
-IP-CIDR,102.132.108.60/31,Outside, no-resolve
-IP-CIDR,102.132.109.60/31,Outside, no-resolve
-IP-CIDR,102.132.110.60/31,Outside, no-resolve
-IP-CIDR,102.132.111.60/31,Outside, no-resolve
-IP-CIDR,108.168.174.0/27,Outside, no-resolve
-IP-CIDR,108.168.176.192/26,Outside, no-resolve
-IP-CIDR,108.168.177.0/27,Outside, no-resolve
-IP-CIDR,108.168.180.96/27,Outside, no-resolve
-IP-CIDR,108.168.254.65/32,Outside, no-resolve
-IP-CIDR,108.168.255.224/32,Outside, no-resolve
-IP-CIDR,108.168.255.227/32,Outside, no-resolve
-IP-CIDR,157.240.0.60/31,Outside, no-resolve
-IP-CIDR,157.240.1.53/32,Outside, no-resolve
-IP-CIDR,157.240.1.54/32,Outside, no-resolve
-IP-CIDR,157.240.2.53/32,Outside, no-resolve
-IP-CIDR,157.240.2.54/32,Outside, no-resolve
-IP-CIDR,157.240.3.54/31,Outside, no-resolve
-IP-CIDR,157.240.4.60/31,Outside, no-resolve
-IP-CIDR,157.240.5.60/31,Outside, no-resolve
-IP-CIDR,157.240.6.53/32,Outside, no-resolve
-IP-CIDR,157.240.6.54/32,Outside, no-resolve
-IP-CIDR,157.240.7.53/32,Outside, no-resolve
-IP-CIDR,157.240.7.54/32,Outside, no-resolve
-IP-CIDR,157.240.8.53/32,Outside, no-resolve
-IP-CIDR,157.240.8.54/32,Outside, no-resolve
-IP-CIDR,157.240.9.53/32,Outside, no-resolve
-IP-CIDR,157.240.9.54/32,Outside, no-resolve
-IP-CIDR,157.240.10.53/32,Outside, no-resolve
-IP-CIDR,157.240.10.54/32,Outside, no-resolve
-IP-CIDR,157.240.11.53/32,Outside, no-resolve
-IP-CIDR,157.240.11.54/32,Outside, no-resolve
-IP-CIDR,157.240.12.53/32,Outside, no-resolve
-IP-CIDR,157.240.12.54/32,Outside, no-resolve
-IP-CIDR,157.240.13.54/31,Outside, no-resolve
-IP-CIDR,157.240.14.52/31,Outside, no-resolve
-IP-CIDR,157.240.15.53/32,Outside, no-resolve
-IP-CIDR,157.240.15.54/32,Outside, no-resolve
-IP-CIDR,157.240.16.52/31,Outside, no-resolve
-IP-CIDR,157.240.17.60/31,Outside, no-resolve
-IP-CIDR,157.240.18.52/31,Outside, no-resolve
-IP-CIDR,157.240.19.53/32,Outside, no-resolve
-IP-CIDR,157.240.19.54/32,Outside, no-resolve
-IP-CIDR,157.240.20.52/31,Outside, no-resolve
-IP-CIDR,157.240.21.52/31,Outside, no-resolve
-IP-CIDR,157.240.22.53/32,Outside, no-resolve
-IP-CIDR,157.240.22.54/32,Outside, no-resolve
-IP-CIDR,157.240.23.53/32,Outside, no-resolve
-IP-CIDR,157.240.23.54/32,Outside, no-resolve
-IP-CIDR,157.240.24.54/31,Outside, no-resolve
-IP-CIDR,157.240.25.54/31,Outside, no-resolve
-IP-CIDR,157.240.26.54/31,Outside, no-resolve
-IP-CIDR,157.240.27.54/31,Outside, no-resolve
-IP-CIDR,157.240.28.51/32,Outside, no-resolve
-IP-CIDR,157.240.28.55/32,Outside, no-resolve
-IP-CIDR,157.240.29.53/32,Outside, no-resolve
-IP-CIDR,157.240.29.54/32,Outside, no-resolve
-IP-CIDR,157.240.30.54/31,Outside, no-resolve
-IP-CIDR,157.240.31.60/31,Outside, no-resolve
-IP-CIDR,157.240.192.52/32,Outside, no-resolve
-IP-CIDR,157.240.192.55/32,Outside, no-resolve
-IP-CIDR,157.240.193.50/32,Outside, no-resolve
-IP-CIDR,157.240.193.55/32,Outside, no-resolve
-IP-CIDR,157.240.194.54/31,Outside, no-resolve
-IP-CIDR,157.240.195.54/32,Outside, no-resolve
-IP-CIDR,157.240.195.56/32,Outside, no-resolve
-IP-CIDR,157.240.196.60/31,Outside, no-resolve
-IP-CIDR,157.240.197.60/31,Outside, no-resolve
-IP-CIDR,157.240.198.60/31,Outside, no-resolve
-IP-CIDR,157.240.199.60/31,Outside, no-resolve
-IP-CIDR,157.240.200.60/31,Outside, no-resolve
-IP-CIDR,157.240.201.60/31,Outside, no-resolve
-IP-CIDR,157.240.202.60/31,Outside, no-resolve
-IP-CIDR,157.240.203.60/31,Outside, no-resolve
-IP-CIDR,157.240.204.60/31,Outside, no-resolve
-IP-CIDR,157.240.205.60/31,Outside, no-resolve
-IP-CIDR,157.240.206.60/31,Outside, no-resolve
-IP-CIDR,157.240.207.60/31,Outside, no-resolve
-IP-CIDR,157.240.208.60/31,Outside, no-resolve
-IP-CIDR,157.240.209.60/31,Outside, no-resolve
-IP-CIDR,157.240.210.60/31,Outside, no-resolve
-IP-CIDR,157.240.211.60/31,Outside, no-resolve
-IP-CIDR,157.240.212.60/31,Outside, no-resolve
-IP-CIDR,157.240.213.60/31,Outside, no-resolve
-IP-CIDR,157.240.214.60/31,Outside, no-resolve
-IP-CIDR,157.240.215.60/31,Outside, no-resolve
-IP-CIDR,157.240.216.60/31,Outside, no-resolve
-IP-CIDR,157.240.217.60/31,Outside, no-resolve
-IP-CIDR,157.240.218.60/31,Outside, no-resolve
-IP-CIDR,157.240.219.60/31,Outside, no-resolve
-IP-CIDR,157.240.220.60/31,Outside, no-resolve
-IP-CIDR,157.240.221.60/31,Outside, no-resolve
-IP-CIDR,157.240.222.60/31,Outside, no-resolve
-IP-CIDR,157.240.223.60/31,Outside, no-resolve
-IP-CIDR,158.85.0.96/27,Outside, no-resolve
-IP-CIDR,158.85.5.192/27,Outside, no-resolve
-IP-CIDR,158.85.46.128/27,Outside, no-resolve
-IP-CIDR,158.85.48.224/27,Outside, no-resolve
-IP-CIDR,158.85.58.32/27,Outside, no-resolve
-IP-CIDR,158.85.58.96/27,Outside, no-resolve
-IP-CIDR,158.85.61.192/27,Outside, no-resolve
-IP-CIDR,158.85.224.160/27,Outside, no-resolve
-IP-CIDR,158.85.233.32/27,Outside, no-resolve
-IP-CIDR,169.44.36.0/26,Outside, no-resolve
-IP-CIDR,169.44.80.32/27,Outside, no-resolve
-IP-CIDR,169.44.82.96/27,Outside, no-resolve
-IP-CIDR,169.44.84.128/27,Outside, no-resolve
-IP-CIDR,169.45.71.32/27,Outside, no-resolve
-IP-CIDR,169.45.87.128/27,Outside, no-resolve
-IP-CIDR,169.45.169.192/27,Outside, no-resolve
-IP-CIDR,169.45.210.64/27,Outside, no-resolve
-IP-CIDR,169.45.214.224/27,Outside, no-resolve
-IP-CIDR,169.45.219.224/27,Outside, no-resolve
-IP-CIDR,169.45.238.32/27,Outside, no-resolve
-IP-CIDR,169.45.242.192/26,Outside, no-resolve
-IP-CIDR,169.45.248.96/27,Outside, no-resolve
-IP-CIDR,169.45.248.160/27,Outside, no-resolve
-IP-CIDR,169.47.5.192/26,Outside, no-resolve
-IP-CIDR,169.47.6.64/27,Outside, no-resolve
-IP-CIDR,169.47.35.32/27,Outside, no-resolve
-IP-CIDR,169.47.40.128/27,Outside, no-resolve
-IP-CIDR,169.47.42.96/27,Outside, no-resolve
-IP-CIDR,169.47.42.160/27,Outside, no-resolve
-IP-CIDR,169.47.42.192/26,Outside, no-resolve
-IP-CIDR,169.47.130.96/27,Outside, no-resolve
-IP-CIDR,169.47.153.128/25,Outside, no-resolve
-IP-CIDR,169.47.198.128/27,Outside, no-resolve
-IP-CIDR,169.47.212.160/27,Outside, no-resolve
-IP-CIDR,169.53.71.224/27,Outside, no-resolve
-IP-CIDR,169.53.81.64/27,Outside, no-resolve
-IP-CIDR,169.54.51.32/27,Outside, no-resolve
-IP-CIDR,169.54.55.192/27,Outside, no-resolve
-IP-CIDR,169.54.222.128/27,Outside, no-resolve
-IP-CIDR,169.55.60.148/32,Outside, no-resolve
-IP-CIDR,169.55.60.170/32,Outside, no-resolve
-IP-CIDR,169.55.67.224/27,Outside, no-resolve
-IP-CIDR,169.55.69.160/27,Outside, no-resolve
-IP-CIDR,169.55.74.32/27,Outside, no-resolve
-IP-CIDR,169.55.75.96/27,Outside, no-resolve
-IP-CIDR,169.60.75.128/25,Outside, no-resolve
-IP-CIDR,169.60.79.0/24,Outside, no-resolve
-IP-CIDR,169.60.147.0/24,Outside, no-resolve
-IP-CIDR,169.61.101.0/24,Outside, no-resolve
-IP-CIDR,169.62.159.16/28,Outside, no-resolve
-IP-CIDR,169.63.64.128/28,Outside, no-resolve
-IP-CIDR,169.63.73.32/27,Outside, no-resolve
-IP-CIDR,169.63.73.64/26,Outside, no-resolve
-IP-CIDR,169.63.76.0/25,Outside, no-resolve
-IP-CIDR,173.192.162.32/27,Outside, no-resolve
-IP-CIDR,173.192.222.160/27,Outside, no-resolve
-IP-CIDR,173.193.230.128/27,Outside, no-resolve
-IP-CIDR,173.193.239.0/27,Outside, no-resolve
-IP-CIDR,174.36.208.128/27,Outside, no-resolve
-IP-CIDR,174.36.210.32/27,Outside, no-resolve
-IP-CIDR,174.37.243.64/27,Outside, no-resolve
-IP-CIDR,179.60.192.49/32,Outside, no-resolve
-IP-CIDR,179.60.192.51/32,Outside, no-resolve
-IP-CIDR,179.60.193.52/31,Outside, no-resolve
-IP-CIDR,179.60.194.53/32,Outside, no-resolve
-IP-CIDR,179.60.194.54/32,Outside, no-resolve
-IP-CIDR,179.60.195.49/32,Outside, no-resolve
-IP-CIDR,179.60.195.51/32,Outside, no-resolve
-IP-CIDR,184.173.136.64/27,Outside, no-resolve
-IP-CIDR,184.173.147.32/27,Outside, no-resolve
-IP-CIDR,184.173.161.64/32,Outside, no-resolve
-IP-CIDR,184.173.173.116/32,Outside, no-resolve
-IP-CIDR,185.60.216.53/32,Outside, no-resolve
-IP-CIDR,185.60.216.54/32,Outside, no-resolve
-IP-CIDR,185.60.217.53/32,Outside, no-resolve
-IP-CIDR,185.60.217.54/32,Outside, no-resolve
-IP-CIDR,185.60.218.53/32,Outside, no-resolve
-IP-CIDR,185.60.218.54/32,Outside, no-resolve
-IP-CIDR,185.60.219.53/32,Outside, no-resolve
-IP-CIDR,185.60.219.54/32,Outside, no-resolve
-IP-CIDR,192.155.212.192/27,Outside, no-resolve
-IP-CIDR,198.11.193.182/31,Outside, no-resolve
-IP-CIDR,198.11.251.32/27,Outside, no-resolve
-IP-CIDR,198.23.80.0/27,Outside, no-resolve
-IP-CIDR,208.43.115.192/27,Outside, no-resolve
+# > ABC
+DOMAIN-SUFFIX,edgedatg.com,Outside
+DOMAIN-SUFFIX,go.com,Outside
 
-# > Telegram
-DOMAIN-SUFFIX,telegra.ph,Outside
-DOMAIN-SUFFIX,telegram.org,Outside
-IP-CIDR,91.108.4.0/22,Outside, no-resolve
-IP-CIDR,91.108.8.0/22,Outside, no-resolve
-IP-CIDR,91.108.12.0/22,Outside, no-resolve
-IP-CIDR,91.108.16.0/22,Outside, no-resolve
-IP-CIDR,91.108.56.0/22,Outside, no-resolve
-IP-CIDR,149.154.160.0/22,Outside, no-resolve
-IP-CIDR,149.154.164.0/22,Outside, no-resolve
-IP-CIDR,149.154.168.0/22,Outside, no-resolve
-IP-CIDR,149.154.172.0/22,Outside, no-resolve
+# > Abema TV
+USER-AGENT,AbemaTV*,Outside
+DOMAIN-SUFFIX,abema.io,Outside
+DOMAIN-SUFFIX,abema.tv,Outside
+DOMAIN-SUFFIX,akamaized.net,Outside
+DOMAIN-SUFFIX,ameba.jp,Outside
+DOMAIN-SUFFIX,hayabusa.io,Outside
+
+# > Amazon Prime Video
+USER-AGENT,InstantVideo.US*,Outside
+USER-AGENT,Prime%20Video*,Outside
+DOMAIN-SUFFIX,aiv-cdn.net,Outside
+DOMAIN-SUFFIX,amazonaws.co.uk,Outside
+DOMAIN-SUFFIX,amazonaws.com,Outside
+DOMAIN-SUFFIX,amazonvideo.com,Outside
+DOMAIN-SUFFIX,llnwd.net,Outside
+DOMAIN-SUFFIX,primevideo.com,Outside
+
+# > Apple News and Apple Map TOMTOM Version
+# USER-AGENT,AppleNews*,Outside
+# USER-AGENT,com.apple.news*,Outside
+# DOMAIN,gspe1-ssl.ls.apple.com,Outside
+# USER-AGENT,News*,Outside
+# DOMAIN,apple.comscoreresearch.com,Outside
+# DOMAIN,gateway.icloud.com,Outside
+# DOMAIN,news-client.apple.com,Outside
+# DOMAIN,news-edge.apple.com,Outside
+# DOMAIN,news-events.apple.com,Outside
+# DOMAIN-SUFFIX,apple.news,Outside
+
+# > Apple TV
+DOMAIN,np-edge.itunes.apple.com,Outside
+DOMAIN,play-edge.itunes.apple.com,Outside
+DOMAIN-SUFFIX,tv.apple.com,Outside
+
+# > Bahamut
+USER-AGENT,Anime*,Outside
+DOMAIN-SUFFIX,bahamut.com.tw,Outside
+DOMAIN-SUFFIX,gamer.com.tw,Outside
+DOMAIN-SUFFIX,hinet.net,Outside
+
+# > BBC iPlayer
+USER-AGENT,BBCiPlayer*,Outside
+DOMAIN-KEYWORD,bbcfmt,Outside
+DOMAIN,aod-dash-uk-live.akamaized.net,Outside
+DOMAIN,aod-hls-uk-live.akamaized.net,Outside
+DOMAIN,vod-dash-uk-live.akamaized.net,Outside
+DOMAIN,vod-thumb-uk-live.akamaized.net,Outside
+DOMAIN-SUFFIX,bbc.co,Outside
+DOMAIN-SUFFIX,bbc.co.uk,Outside
+DOMAIN-SUFFIX,bbc.com,Outside
+DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net,Outside
+DOMAIN-SUFFIX,bbci.co,Outside
+DOMAIN-SUFFIX,bbci.co.uk,Outside
+
+# > DAZN
+DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net,Outside
+DOMAIN-SUFFIX,dazn.com,Outside
+DOMAIN-SUFFIX,dazn-api.com,Outside
+DOMAIN-SUFFIX,dazndn.com,Outside
+DOMAIN-SUFFIX,indazn.com,Outside
+DOMAIN-SUFFIX,intercom.io,Outside
+
+# > Disney Plus
+USER-AGENT,Disney*,Outside
+DOMAIN,cdn.registerdisney.go.com,Outside
+DOMAIN,cdn.cdn.unid.go.com,Outside
+DOMAIN-SUFFIX,bamgrid.com,Outside
+DOMAIN-SUFFIX,braze.com,Outside
+DOMAIN-SUFFIX,conviva.com,Outside
+DOMAIN-SUFFIX,disney.demdex.net,Outside
+DOMAIN-SUFFIX,disneyplus.com,Outside
+DOMAIN-SUFFIX,disney-plus.net,Outside
+DOMAIN-SUFFIX,dssott.com,Outside
+DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com,Outside
+
+# > encoreTVB
+USER-AGENT,encoreTVB*,Outside
+DOMAIN-SUFFIX,encoretvb.com,Outside
+DOMAIN,content.jwplatform.com,Outside
+DOMAIN,videos-f.jwpsrv.com,Outside
+
+# > Fox Now
+USER-AGENT,FOX%20NOW*,Outside
+DOMAIN-SUFFIX,fox.com,Outside
+DOMAIN-SUFFIX,foxdcg.com,Outside
+DOMAIN-SUFFIX,uplynk.com,Outside
+
+# > Fox+ (HK|TW|SG)
+USER-AGENT,FOXPlus*,Outside
+DOMAIN-SUFFIX,akamaized.net,Outside
+DOMAIN-SUFFIX,foxplus.com,Outside
+DOMAIN-SUFFIX,theplatform.com,Outside
+
+# > HBO NOW & HBO GO
+USER-AGENT,HBO%20NOW*,Outside
+DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,Outside
+DOMAIN-SUFFIX,hbo.com,Outside
+DOMAIN-SUFFIX,hboasia.com,Outside
+DOMAIN-SUFFIX,hbogo.com,Outside
+DOMAIN-SUFFIX,hbogoasia.com,Outside
+DOMAIN-SUFFIX,hbogoasia.hk,Outside
+DOMAIN-SUFFIX,hbonow.com,Outside
+DOMAIN-SUFFIX,hbomax.com,Outside
+
+# > Hulu(フールー)
+DOMAIN-SUFFIX,happyon.jp,Outside
+DOMAIN-SUFFIX,hulu.jp,Outside
+
+# > Hulu
+DOMAIN-SUFFIX,hulu.com,Outside
+DOMAIN-SUFFIX,huluim.com,Outside
+DOMAIN-SUFFIX,hulustream.com,Outside
+
+# > Japonx
+DOMAIN-KEYWORD,japonx,Outside
+DOMAIN-KEYWORD,japronx,Outside
+DOMAIN-SUFFIX,japonx.com,Outside
+DOMAIN-SUFFIX,japonx.tv,Outside
+DOMAIN-SUFFIX,japonx.net,Outside
+DOMAIN-SUFFIX,japonx.vip,Outside
+DOMAIN-SUFFIX,japronx.com,Outside
+DOMAIN-SUFFIX,japronx.tv,Outside
+DOMAIN-SUFFIX,japronx.net,Outside
+DOMAIN-SUFFIX,japronx.vip,Outside
+
+# > JOOX
+USER-AGENT,WeMusic*,Outside
+USER-AGENT,JOOX*,Outside
+DOMAIN-SUFFIX,joox.com,Outside
+
+# > KKBOX
+DOMAIN-SUFFIX,kkbox.com,Outside
+DOMAIN-SUFFIX,kkbox.com.tw,Outside
+DOMAIN-SUFFIX,kfs.io,Outside
+
+# > KKTV
+USER-AGENT,KKTV*,Outside
+USER-AGENT,com.kktv*,Outside
+DOMAIN-SUFFIX,kktv.me,Outside
+DOMAIN-SUFFIX,kktv.com.tw,Outside
+DOMAIN,kktv-theater.kk.stream,Outside
+
+# > Line TV
+USER-AGENT,LINE*,Outside
+DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net,Outside
+DOMAIN-SUFFIX,linetv.tw,Outside
+
+# > myTV_SUPER
+USER-AGENT,mytv*,Outside
+DOMAIN-SUFFIX,mytvsuper.com,Outside
+DOMAIN-SUFFIX,tvb.com,Outside
+
+# > Pandora
+DOMAIN-SUFFIX,pandora.com,Outside
+
+# > PBS
+USER-AGENT,PBS*,Outside
+DOMAIN-SUFFIX,pbs.org,Outside
+
+# > Pornhub
+DOMAIN-SUFFIX,phncdn.com,Outside
+DOMAIN-SUFFIX,phprcdn.com,Outside
+DOMAIN-SUFFIX,pornhub.com,Outside
+DOMAIN-SUFFIX,pornhubpremium.com,Outside
+
+# > SoundCloud
+USER-AGENT,SoundCloud*,Outside
+DOMAIN-SUFFIX,sndcdn.com,Outside
+DOMAIN-SUFFIX,soundcloud.com,Outside
+
+# > ViuTV
+USER-AGENT,ViuTV*,Outside
+DOMAIN-SUFFIX,bootstrapcdn.com,Outside
+DOMAIN-SUFFIX,cloudfront.net,Outside
+DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com,Outside
+DOMAIN-SUFFIX,firebaseio.com,Outside
+DOMAIN-SUFFIX,jwpcdn.com,Outside
+DOMAIN-SUFFIX,jwplayer.com,Outside
+DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com,Outside
+DOMAIN-SUFFIX,nowe.com,Outside
+DOMAIN-SUFFIX,viu.com,Outside
+DOMAIN-SUFFIX,viu.tv,Outside
+DOMAIN-SUFFIX,viu.now.com,Outside
 
 # > Youtube Music
 USER-AGENT,*YouTubeMusic*,Outside
@@ -281,95 +201,181 @@ DOMAIN-SUFFIX,gvt2.com,Outside
 DOMAIN-SUFFIX,youtu.be,Outside
 DOMAIN-SUFFIX,ytimg.com,Outside
 
-# > Spotify
-#PROCESS-NAME,Spotify
-USER-AGENT,*Spotify*,Outside
-DOMAIN-SUFFIX,scdn.co,Outside
-DOMAIN-SUFFIX,spotify.com,Outside
+# > Line
+DOMAIN-SUFFIX,lin.ee,Outside
+DOMAIN-SUFFIX,line.me,Outside
+DOMAIN-SUFFIX,line.naver.jp,Outside
+DOMAIN-SUFFIX,line-apps.com,Outside
+DOMAIN-SUFFIX,line-cdn.net,Outside
+DOMAIN-SUFFIX,line-scdn.net,Outside
+DOMAIN-SUFFIX,nhncorp.jp,Outside
 
-  
+# > Sony
+DOMAIN-SUFFIX,playstation.com,Outside
+DOMAIN-SUFFIX,playstation.net,Outside
+DOMAIN-SUFFIX,playstationnetwork.com,Outside
+DOMAIN-SUFFIX,sony.com,Outside
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com,Outside
 
-## 抗 DNS 污染
-DOMAIN-KEYWORD,amazon,Outside,force-remote-dns
-DOMAIN-KEYWORD,google,Outside,force-remote-dns
-DOMAIN-KEYWORD,gmail,Outside,force-remote-dns
-DOMAIN-KEYWORD,youtube,Outside,force-remote-dns
-DOMAIN-KEYWORD,facebook,Outside,force-remote-dns
-DOMAIN-SUFFIX,fb.me,Outside,force-remote-dns
-DOMAIN-SUFFIX,fbcdn.net,Outside,force-remote-dns
-DOMAIN-KEYWORD,twitter,Outside,force-remote-dns
-DOMAIN-KEYWORD,instagram,Outside,force-remote-dns
-DOMAIN-KEYWORD,dropbox,Outside,force-remote-dns
-DOMAIN-SUFFIX,twimg.com,Outside,force-remote-dns
-DOMAIN-KEYWORD,blogspot,Outside,force-remote-dns
-DOMAIN-SUFFIX,youtu.be,Outside,force-remote-dns
-DOMAIN-KEYWORD,whatsapp,Outside,force-remote-dns
+# > Spark
+DOMAIN-SUFFIX,api.amplitude.com,Outside
+DOMAIN-SUFFIX,app.smartmailcloud.com,Outside
+DOMAIN-SUFFIX,gate.hockeyapp.net,Outside
+DOMAIN-SUFFIX,smartmailcloud.com,Outside
 
-## 常见国外域名列表
+# > Steam
+DOMAIN-SUFFIX,fanatical.com,Outside
+DOMAIN-SUFFIX,humblebundle.com,Outside
+DOMAIN-SUFFIX,steamcommunity.com,Outside
+DOMAIN-SUFFIX,steampowered.com,Outside
+DOMAIN-SUFFIX,steamstatic.com,Outside
+
+# > Zooba
+USER-AGENT,battleroyale*,Outside
+
+# > Top blocked sites
+DOMAIN-SUFFIX,2o7.net,Outside
+DOMAIN-SUFFIX,4everOutside.com,Outside
+DOMAIN-SUFFIX,4shared.com,Outside
+DOMAIN-SUFFIX,4sqi.net,Outside
 DOMAIN-SUFFIX,9to5mac.com,Outside
 DOMAIN-SUFFIX,abpchina.org,Outside
+DOMAIN-SUFFIX,accountkit.com,Outside
 DOMAIN-SUFFIX,adblockplus.org,Outside
 DOMAIN-SUFFIX,adobe.com,Outside
+DOMAIN-SUFFIX,adobedtm.com,Outside
+DOMAIN-SUFFIX,aerisapi.com,Outside
+DOMAIN-SUFFIX,akamaihd.net,Outside
+DOMAIN-SUFFIX,airtable.com,Outside
 DOMAIN-SUFFIX,alfredapp.com,Outside
-DOMAIN-SUFFIX,amplitude.com,Outside
-DOMAIN-KEYWORD,ampproject,Outside
+DOMAIN-SUFFIX,allconnected.co,Outside
+DOMAIN-SUFFIX,amazon.co,Outside
+DOMAIN-SUFFIX,amazon.co.jp,Outside
+DOMAIN-SUFFIX,amazon.com,Outside
+DOMAIN-SUFFIX,amazonaws.com,Outside
+DOMAIN-SUFFIX,ampproject.com,Outside
+DOMAIN-SUFFIX,ampproject.net,Outside
+DOMAIN-SUFFIX,ampproject.org,Outside
+DOMAIN-SUFFIX,anaconda.com,Outside
+DOMAIN-SUFFIX,ancsconf.org,Outside
 DOMAIN-SUFFIX,android.com,Outside
+DOMAIN-SUFFIX,androidify.com,Outside
+DOMAIN-SUFFIX,android-x86.org,Outside
 DOMAIN-SUFFIX,angularjs.org,Outside
+DOMAIN-SUFFIX,anthonycalzadilla.com,Outside
+DOMAIN-SUFFIX,aol.com,Outside
 DOMAIN-SUFFIX,aolcdn.com,Outside
+DOMAIN-SUFFIX,apache.org,Outside
+DOMAIN-SUFFIX,api.mixpanel.com,Outside
+DOMAIN-SUFFIX,api.termius.com,Outside
+DOMAIN-SUFFIX,api.tiktokv.com,Outside
+DOMAIN-SUFFIX,api.urbandictionary.com,Outside
+DOMAIN-SUFFIX,apigee.com,Outside
+DOMAIN-SUFFIX,apk-dl.com,Outside
 DOMAIN-SUFFIX,apkpure.com,Outside
-DOMAIN-SUFFIX,appledaily.com,Outside
+DOMAIN-SUFFIX,appdownloader.net,Outside
+DOMAIN-SUFFIX,apple-dns.net,Outside
+DOMAIN-SUFFIX,app-measurement.com,Outside
 DOMAIN-SUFFIX,appshopper.com,Outside
-DOMAIN-SUFFIX,appspot.com,Outside
 DOMAIN-SUFFIX,arcgis.com,Outside
+DOMAIN-SUFFIX,archive.is,Outside
 DOMAIN-SUFFIX,archive.org,Outside
+DOMAIN-SUFFIX,archives.gov,Outside
 DOMAIN-SUFFIX,armorgames.com,Outside
 DOMAIN-SUFFIX,aspnetcdn.com,Outside
+DOMAIN-SUFFIX,async.be,Outside
 DOMAIN-SUFFIX,att.com,Outside
+DOMAIN-SUFFIX,avgle.com,Outside
 DOMAIN-SUFFIX,awsstatic.com,Outside
+DOMAIN-SUFFIX,azure.com,Outside
 DOMAIN-SUFFIX,azureedge.net,Outside
 DOMAIN-SUFFIX,azurewebsites.net,Outside
+DOMAIN-SUFFIX,badoo.com,Outside
+DOMAIN-SUFFIX,bandisoft.com,Outside
+DOMAIN-SUFFIX,bbtoystore.com,Outside
+DOMAIN-SUFFIX,betvictor.com,Outside
+DOMAIN-SUFFIX,bigsound.org,Outside
+DOMAIN-SUFFIX,bing.com,Outside
+DOMAIN-SUFFIX,bing.net,Outside
 DOMAIN-SUFFIX,bintray.com,Outside
 DOMAIN-SUFFIX,bit.com,Outside
+DOMAIN-SUFFIX,bit.do,Outside
 DOMAIN-SUFFIX,bit.ly,Outside
 DOMAIN-SUFFIX,bitbucket.org,Outside
-DOMAIN-SUFFIX,bjango.com,Outside
+DOMAIN-SUFFIX,bitcointalk.org,Outside
+DOMAIN-SUFFIX,bitshare.com,Outside
 DOMAIN-SUFFIX,bkrtx.com,Outside
 DOMAIN-SUFFIX,blog.com,Outside
 DOMAIN-SUFFIX,blogcdn.com,Outside
 DOMAIN-SUFFIX,blogger.com,Outside
+DOMAIN-SUFFIX,bloglovin.com,Outside
 DOMAIN-SUFFIX,blogsmithmedia.com,Outside
-DOMAIN-SUFFIX,blogspot.com,Outside
 DOMAIN-SUFFIX,blogspot.hk,Outside
+DOMAIN-SUFFIX,bloomberg.cn,Outside
 DOMAIN-SUFFIX,bloomberg.com,Outside
+DOMAIN-SUFFIX,books.com.tw,Outside
+DOMAIN-SUFFIX,boomtrain.com,Outside
+DOMAIN-SUFFIX,botanwang.com,Outside
 DOMAIN-SUFFIX,box.com,Outside
 DOMAIN-SUFFIX,box.net,Outside
+DOMAIN-SUFFIX,boxun.com,Outside
 DOMAIN-SUFFIX,cachefly.net,Outside
+DOMAIN-SUFFIX,cbc.ca,Outside
+DOMAIN-SUFFIX,cdn.angruo.com,Outside
+DOMAIN-SUFFIX,cdn.segment.com,Outside
+DOMAIN-SUFFIX,cdnst.net,Outside
+DOMAIN-SUFFIX,celestrak.com,Outside
+DOMAIN-SUFFIX,census.gov,Outside
+DOMAIN-SUFFIX,certificate-transparency.org,Outside
+DOMAIN-SUFFIX,chinadigitaltimes.net,Outside
+DOMAIN-SUFFIX,chinatimes.com,Outside
+DOMAIN-SUFFIX,chrome.com,Outside
+DOMAIN-SUFFIX,chromecast.com,Outside
+DOMAIN-SUFFIX,chromercise.com,Outside
+DOMAIN-SUFFIX,chromestatus.com,Outside
 DOMAIN-SUFFIX,chromium.org,Outside
 DOMAIN-SUFFIX,cl.ly,Outside
+DOMAIN-SUFFIX,clien.net,Outside
 DOMAIN-SUFFIX,cloudflare.com,Outside
 DOMAIN-SUFFIX,cloudfront.net,Outside
+DOMAIN-SUFFIX,cloudgarage.jp,Outside
 DOMAIN-SUFFIX,cloudmagic.com,Outside
 DOMAIN-SUFFIX,cmail19.com,Outside
 DOMAIN-SUFFIX,cnet.com,Outside
+DOMAIN-SUFFIX,cnn.com,Outside
 DOMAIN-SUFFIX,cocoapods.org,Outside
 DOMAIN-SUFFIX,comodoca.com,Outside
-DOMAIN-SUFFIX,crashlytics.com,Outside
+DOMAIN-SUFFIX,content.office.net,Outside
 DOMAIN-SUFFIX,culturedcode.com,Outside
+DOMAIN-SUFFIX,cygames.jp,Outside
 DOMAIN-SUFFIX,d.pr,Outside
 DOMAIN-SUFFIX,danilo.to,Outside
+DOMAIN-SUFFIX,daolan.net,Outside
+DOMAIN-SUFFIX,data-vocabulary.org,Outside
 DOMAIN-SUFFIX,dayone.me,Outside
 DOMAIN-SUFFIX,db.tt,Outside
+DOMAIN-SUFFIX,dcmilitary.com,Outside
+DOMAIN-SUFFIX,deja.com,Outside
+DOMAIN-SUFFIX,demdex.net,Outside
 DOMAIN-SUFFIX,deskconnect.com,Outside
+DOMAIN-SUFFIX,digisfera.com,Outside
+DOMAIN-SUFFIX,digitaltrends.com,Outside
+DOMAIN-SUFFIX,disconnect.me,Outside
 DOMAIN-SUFFIX,disq.us,Outside
 DOMAIN-SUFFIX,disqus.com,Outside
 DOMAIN-SUFFIX,disquscdn.com,Outside
+DOMAIN-SUFFIX,dmm.co.jp,Outside
 DOMAIN-SUFFIX,dnsimple.com,Outside
 DOMAIN-SUFFIX,docker.com,Outside
+DOMAIN-SUFFIX,doub.io,Outside
+DOMAIN-SUFFIX,dowjones.com,Outside
 DOMAIN-SUFFIX,dribbble.com,Outside
 DOMAIN-SUFFIX,droplr.com,Outside
 DOMAIN-SUFFIX,duckduckgo.com,Outside
 DOMAIN-SUFFIX,dueapp.com,Outside
-DOMAIN-SUFFIX,dytt8.net,Outside
+DOMAIN-SUFFIX,dw.com,Outside
+DOMAIN-SUFFIX,easybib.com,Outside
+DOMAIN-SUFFIX,economist.com,Outside
 DOMAIN-SUFFIX,edgecastcdn.net,Outside
 DOMAIN-SUFFIX,edgekey.net,Outside
 DOMAIN-SUFFIX,edgesuite.net,Outside
@@ -377,9 +383,11 @@ DOMAIN-SUFFIX,engadget.com,Outside
 DOMAIN-SUFFIX,entrust.net,Outside
 DOMAIN-SUFFIX,eurekavpt.com,Outside
 DOMAIN-SUFFIX,evernote.com,Outside
+DOMAIN-SUFFIX,extmatrix.com,Outside
+DOMAIN-SUFFIX,eyny.com,Outside
 DOMAIN-SUFFIX,fabric.io,Outside
-DOMAIN-SUFFIX,fast.com,Outside
 DOMAIN-SUFFIX,fastly.net,Outside
+DOMAIN-SUFFIX,fastmail.com,Outside
 DOMAIN-SUFFIX,fc2.com,Outside
 DOMAIN-SUFFIX,feedburner.com,Outside
 DOMAIN-SUFFIX,feedly.com,Outside
@@ -389,16 +397,34 @@ DOMAIN-SUFFIX,firebaseio.com,Outside
 DOMAIN-SUFFIX,flexibits.com,Outside
 DOMAIN-SUFFIX,flickr.com,Outside
 DOMAIN-SUFFIX,flipboard.com,Outside
+DOMAIN-SUFFIX,flipkart.com,Outside
+DOMAIN-SUFFIX,flitto.com,Outside
+DOMAIN-SUFFIX,flurry.com,Outside
+DOMAIN-SUFFIX,freeopenOutside.com,Outside
+DOMAIN-SUFFIX,fubo.tv,Outside
+DOMAIN-SUFFIX,fullstory.com,Outside
+DOMAIN-SUFFIX,fzlm.net,Outside
 DOMAIN-SUFFIX,g.co,Outside
 DOMAIN-SUFFIX,gabia.net,Outside
+DOMAIN-SUFFIX,garena.com,Outside
 DOMAIN-SUFFIX,geni.us,Outside
+DOMAIN-SUFFIX,get.how,Outside
+DOMAIN-SUFFIX,getcloudapp.com,Outside
+DOMAIN-SUFFIX,getfoxyOutside.org,Outside
+DOMAIN-SUFFIX,getlantern.org,Outside
+DOMAIN-SUFFIX,getmdl.io,Outside
+DOMAIN-SUFFIX,getpricetag.com,Outside
+DOMAIN-SUFFIX,gfw.press,Outside
 DOMAIN-SUFFIX,gfx.ms,Outside
 DOMAIN-SUFFIX,ggpht.com,Outside
 DOMAIN-SUFFIX,ghostnoteapp.com,Outside
 DOMAIN-SUFFIX,git.io,Outside
-DOMAIN-KEYWORD,github,Outside
+DOMAIN-SUFFIX,gitbook.com,Outside
 DOMAIN-SUFFIX,globalsign.com,Outside
+DOMAIN-SUFFIX,gmocloud.com,Outside
 DOMAIN-SUFFIX,gmodules.com,Outside
+DOMAIN-SUFFIX,go.com,Outside
+DOMAIN-SUFFIX,go.jp,Outside
 DOMAIN-SUFFIX,godaddy.com,Outside
 DOMAIN-SUFFIX,golang.org,Outside
 DOMAIN-SUFFIX,gongm.in,Outside
@@ -406,157 +432,524 @@ DOMAIN-SUFFIX,goo.gl,Outside
 DOMAIN-SUFFIX,goodreaders.com,Outside
 DOMAIN-SUFFIX,goodreads.com,Outside
 DOMAIN-SUFFIX,gravatar.com,Outside
+DOMAIN-SUFFIX,gstatic.cn,Outside
 DOMAIN-SUFFIX,gstatic.com,Outside
+DOMAIN-SUFFIX,gunsamerica.com,Outside
 DOMAIN-SUFFIX,gvt0.com,Outside
+DOMAIN-SUFFIX,gvt1.com,Outside
+DOMAIN-SUFFIX,helpshift.com,Outside
+DOMAIN-SUFFIX,hitun.io,Outside
+DOMAIN-SUFFIX,hockeyapp.net,Outside
+DOMAIN-SUFFIX,homedepot.com,Outside
+DOMAIN-SUFFIX,hootsuite.com,Outside
+DOMAIN-SUFFIX,howtoforge.com,Outside
+DOMAIN-SUFFIX,i-cable.com,Outside
+DOMAIN-SUFFIX,iam.soy,Outside
+DOMAIN-SUFFIX,icoco.com,Outside
 DOMAIN-SUFFIX,icons8.com,Outside
-DOMAIN-SUFFIX,ifixit.com,Outside
 DOMAIN-SUFFIX,ift.tt,Outside
 DOMAIN-SUFFIX,ifttt.com,Outside
-DOMAIN-SUFFIX,iherb.com,Outside
 DOMAIN-SUFFIX,imageshack.us,Outside
 DOMAIN-SUFFIX,img.ly,Outside
 DOMAIN-SUFFIX,imgur.com,Outside
 DOMAIN-SUFFIX,imore.com,Outside
+DOMAIN-SUFFIX,ingress.com,Outside
+DOMAIN-SUFFIX,inoreader.com,Outside
+DOMAIN-SUFFIX,insder.co,Outside
 DOMAIN-SUFFIX,instapaper.com,Outside
+DOMAIN-SUFFIX,instructables.com,Outside
+DOMAIN-SUFFIX,io.io,Outside
+DOMAIN-SUFFIX,ip.sb,Outside
+DOMAIN-SUFFIX,ipaddress.com,Outside
 DOMAIN-SUFFIX,ipn.li,Outside
 DOMAIN-SUFFIX,is.gd,Outside
+DOMAIN-SUFFIX,ishowsapp.com,Outside
 DOMAIN-SUFFIX,issuu.com,Outside
 DOMAIN-SUFFIX,itgonglun.com,Outside
 DOMAIN-SUFFIX,itun.es,Outside
 DOMAIN-SUFFIX,ixquick.com,Outside
 DOMAIN-SUFFIX,j.mp,Outside
+DOMAIN-SUFFIX,javbus.com,Outside
 DOMAIN-SUFFIX,js.revsci.net,Outside
 DOMAIN-SUFFIX,jshint.com,Outside
 DOMAIN-SUFFIX,jtvnw.net,Outside
 DOMAIN-SUFFIX,justgetflux.com,Outside
+DOMAIN-SUFFIX,kakao.co.kr,Outside
+DOMAIN-SUFFIX,kakao.com,Outside
+DOMAIN-SUFFIX,kakaocdn.net,Outside
 DOMAIN-SUFFIX,kat.cr,Outside
+DOMAIN-SUFFIX,kenengba.com,Outside
+DOMAIN-SUFFIX,kik.com,Outside
 DOMAIN-SUFFIX,klip.me,Outside
+DOMAIN-SUFFIX,leancloud.com,Outside
+DOMAIN-SUFFIX,leetcode.com,Outside
+DOMAIN-SUFFIX,lhie1.com,Outside
 DOMAIN-SUFFIX,libsyn.com,Outside
+DOMAIN-SUFFIX,licdn.com,Outside
+DOMAIN-SUFFIX,lightboxcdn.com,Outside
+DOMAIN-SUFFIX,like.com,Outside
+DOMAIN-SUFFIX,linkedin.com,Outside
 DOMAIN-SUFFIX,linode.com,Outside
 DOMAIN-SUFFIX,lithium.com,Outside
 DOMAIN-SUFFIX,littlehj.com,Outside
 DOMAIN-SUFFIX,livefilestore.com,Outside
 DOMAIN-SUFFIX,llnwd.net,Outside
+DOMAIN-SUFFIX,localnetwork.uop,Outside
+DOMAIN-SUFFIX,logmein.com,Outside
 DOMAIN-SUFFIX,macid.co,Outside
 DOMAIN-SUFFIX,macromedia.com,Outside
 DOMAIN-SUFFIX,macrumors.com,Outside
+DOMAIN-SUFFIX,mangaup.jp,Outside
+DOMAIN-SUFFIX,manhuaren.com,Outside
+DOMAIN-SUFFIX,marketwatch.com,Outside
 DOMAIN-SUFFIX,mashable.com,Outside
 DOMAIN-SUFFIX,mathjax.org,Outside
+DOMAIN-SUFFIX,maven.org,Outside
 DOMAIN-SUFFIX,medium.com,Outside
 DOMAIN-SUFFIX,mega.co.nz,Outside
 DOMAIN-SUFFIX,mega.nz,Outside
 DOMAIN-SUFFIX,megaupload.com,Outside
+DOMAIN-SUFFIX,microsofttranslator.com,Outside
 DOMAIN-SUFFIX,mindnode.com,Outside
+DOMAIN-SUFFIX,mlssoccer.com,Outside
 DOMAIN-SUFFIX,mobile01.com,Outside
 DOMAIN-SUFFIX,modmyi.com,Outside
+DOMAIN-SUFFIX,moves-export.com,Outside
+DOMAIN-SUFFIX,mp3buscador.com,Outside
+DOMAIN-SUFFIX,msedge.net,Outside
+DOMAIN-SUFFIX,mycnnews.com,Outside
 DOMAIN-SUFFIX,myfontastic.com,Outside
 DOMAIN-SUFFIX,name.com,Outside
+DOMAIN-SUFFIX,nasa.gov,Outside
+DOMAIN-SUFFIX,ndr.de,Outside
+DOMAIN-SUFFIX,netdna-cdn.com,Outside
+DOMAIN-SUFFIX,newipnow.com,Outside
 DOMAIN-SUFFIX,nextmedia.com,Outside
+DOMAIN-SUFFIX,nicovideo.jp,Outside
+DOMAIN-SUFFIX,nih.gov,Outside
+DOMAIN-SUFFIX,nimg.jp,Outside
+DOMAIN-SUFFIX,nintendo.com,Outside
+DOMAIN-SUFFIX,nintendo.net,Outside
+DOMAIN-SUFFIX,notion.so,Outside
+DOMAIN-SUFFIX,novafile.com,Outside
+DOMAIN-SUFFIX,nrk.no,Outside
 DOMAIN-SUFFIX,nsstatic.net,Outside
 DOMAIN-SUFFIX,nssurge.com,Outside
 DOMAIN-SUFFIX,nyt.com,Outside
 DOMAIN-SUFFIX,nytimes.com,Outside
+DOMAIN-SUFFIX,nytimg.com,Outside
+DOMAIN-SUFFIX,nytstyle.com,Outside
+DOMAIN-SUFFIX,office365.com,Outside
 DOMAIN-SUFFIX,omnigroup.com,Outside
+DOMAIN-SUFFIX,onenote.com,Outside
 DOMAIN-SUFFIX,ooyala.com,Outside
 DOMAIN-SUFFIX,openvpn.net,Outside
 DOMAIN-SUFFIX,openwrt.org,Outside
+DOMAIN-SUFFIX,optimizely.com,Outside
 DOMAIN-SUFFIX,orkut.com,Outside
+DOMAIN-SUFFIX,osha.gov,Outside
 DOMAIN-SUFFIX,osxdaily.com,Outside
+DOMAIN-SUFFIX,overcast.fm,Outside
 DOMAIN-SUFFIX,ow.ly,Outside
+DOMAIN-SUFFIX,paddle.com,Outside
 DOMAIN-SUFFIX,paddleapi.com,Outside
+DOMAIN-SUFFIX,panoramio.com,Outside
 DOMAIN-SUFFIX,parallels.com,Outside
 DOMAIN-SUFFIX,parse.com,Outside
 DOMAIN-SUFFIX,pdfexpert.com,Outside
 DOMAIN-SUFFIX,periscope.tv,Outside
+DOMAIN-SUFFIX,piaotian.net,Outside
+DOMAIN-SUFFIX,picacomic.com,Outside
+DOMAIN-SUFFIX,picasaweb.com,Outside
 DOMAIN-SUFFIX,pinboard.in,Outside
+DOMAIN-SUFFIX,ping.pe,Outside
 DOMAIN-SUFFIX,pinterest.com,Outside
 DOMAIN-SUFFIX,pixelmator.com,Outside
 DOMAIN-SUFFIX,pixiv.net,Outside
+DOMAIN-SUFFIX,pixnet.net,Outside
 DOMAIN-SUFFIX,playpcesor.com,Outside
-DOMAIN-SUFFIX,playstation.com,Outside
-DOMAIN-SUFFIX,playstation.com.hk,Outside
-DOMAIN-SUFFIX,playstation.net,Outside
-DOMAIN-SUFFIX,playstationnetwork.com,Outside
+DOMAIN-SUFFIX,pokemon.com,Outside
+DOMAIN-SUFFIX,polymer-project.org,Outside
+DOMAIN-SUFFIX,popo.tw,Outside
+DOMAIN-SUFFIX,potato.im,Outside
+DOMAIN-SUFFIX,redd.it,Outside
+DOMAIN-SUFFIX,rthk.hk,Outside
+DOMAIN-SUFFIX,prfct.co,Outside
+DOMAIN-SUFFIX,proxfree.com,Outside
+DOMAIN-SUFFIX,psiphon3.com,Outside
+DOMAIN-SUFFIX,ptt.cc,Outside
+DOMAIN-SUFFIX,pubu.com.tw,Outside
+DOMAIN-SUFFIX,puffinbrowser.com,Outside
+DOMAIN-SUFFIX,pushbullet.com,Outside
 DOMAIN-SUFFIX,pushwoosh.com,Outside
+DOMAIN-SUFFIX,pximg.net,Outside
+DOMAIN-SUFFIX,quora.com,Outside
+DOMAIN-SUFFIX,quoracdn.net,Outside
+DOMAIN-SUFFIX,readingtimes.com.tw,Outside
+DOMAIN-SUFFIX,readmoo.com,Outside
+DOMAIN-SUFFIX,recaptcha.net,Outside
+DOMAIN-SUFFIX,reddit.com,Outside
+DOMAIN-SUFFIX,redditmedia.com,Outside
+DOMAIN-SUFFIX,reuters.com,Outside
+DOMAIN-SUFFIX,rfi.fr,Outside
+DOMAIN-SUFFIX,rileyguide.com,Outside
 DOMAIN-SUFFIX,rime.im,Outside
+DOMAIN-SUFFIX,rsf.org,Outside
+DOMAIN-SUFFIX,sciencedaily.com,Outside
+DOMAIN-SUFFIX,sciencemag.org,Outside
+DOMAIN-SUFFIX,scribd.com,Outside
+DOMAIN-SUFFIX,search.com,Outside
 DOMAIN-SUFFIX,servebom.com,Outside
+DOMAIN-SUFFIX,sexinsex.net,Outside
 DOMAIN-SUFFIX,sfx.ms,Outside
 DOMAIN-SUFFIX,shadowsocks.org,Outside
+DOMAIN-SUFFIX,shadowverse.jp,Outside
 DOMAIN-SUFFIX,sharethis.com,Outside
 DOMAIN-SUFFIX,shazam.com,Outside
-DOMAIN-SUFFIX,smartdnsProxy.com,Outside
-DOMAIN-SUFFIX,smartmailcloud.com,Outside
+DOMAIN-SUFFIX,shutterstock.com,Outside
+DOMAIN-SUFFIX,sidelinesnews.com,Outside
+DOMAIN-SUFFIX,simp.ly,Outside
+DOMAIN-SUFFIX,simplenote.com,Outside
+DOMAIN-SUFFIX,sketchappsources.com,Outside
+DOMAIN-SUFFIX,slack.com,Outside
+DOMAIN-SUFFIX,slack-edge.com,Outside
+DOMAIN-SUFFIX,slack-msgs.com,Outside
+DOMAIN-SUFFIX,slideshare.net,Outside
+DOMAIN-SUFFIX,smartdnsOutside.com,Outside
+DOMAIN-SUFFIX,smh.com.au,Outside
+DOMAIN-SUFFIX,snapchat.com,Outside
 DOMAIN-SUFFIX,sndcdn.com,Outside
-DOMAIN-SUFFIX,sony.com,Outside
+DOMAIN-SUFFIX,sockslist.net,Outside
 DOMAIN-SUFFIX,soundcloud.com,Outside
 DOMAIN-SUFFIX,sourceforge.net,Outside
-DOMAIN-SUFFIX,spotify.com,Outside
+DOMAIN-SUFFIX,sowers.org.hk,Outside
+DOMAIN-SUFFIX,speedsmart.net,Outside
+DOMAIN-SUFFIX,spike.com,Outside
 DOMAIN-SUFFIX,squarespace.com,Outside
+DOMAIN-SUFFIX,ssa.gov,Outside
 DOMAIN-SUFFIX,sstatic.net,Outside
 DOMAIN-SUFFIX,st.luluku.pw,Outside
 DOMAIN-SUFFIX,stackoverflow.com,Outside
+DOMAIN-SUFFIX,starp2p.com,Outside
 DOMAIN-SUFFIX,startpage.com,Outside
+DOMAIN-SUFFIX,state.gov,Outside
 DOMAIN-SUFFIX,staticflickr.com,Outside
-DOMAIN-SUFFIX,steamcommunity.com,Outside
+DOMAIN-SUFFIX,storify.com,Outside
+DOMAIN-SUFFIX,stumbleupon.com,Outside
+DOMAIN-SUFFIX,sugarsync.com,Outside
+DOMAIN-SUFFIX,supermariorun.com,Outside
+DOMAIN-SUFFIX,surfeasy.com.au,Outside
+DOMAIN-SUFFIX,surge.run,Outside
+DOMAIN-SUFFIX,surrenderat20.net,Outside
+DOMAIN-SUFFIX,sydneytoday.com,Outside
 DOMAIN-SUFFIX,symauth.com,Outside
 DOMAIN-SUFFIX,symcb.com,Outside
 DOMAIN-SUFFIX,symcd.com,Outside
+DOMAIN-SUFFIX,t66y.com,Outside
+DOMAIN-SUFFIX,tablesgenerator.com,Outside
+DOMAIN-SUFFIX,tabtter.jp,Outside
+DOMAIN-SUFFIX,talk853.com,Outside
+DOMAIN-SUFFIX,talkboxapp.com,Outside
+DOMAIN-SUFFIX,talkonly.net,Outside
 DOMAIN-SUFFIX,tapbots.com,Outside
 DOMAIN-SUFFIX,tapbots.net,Outside
-DOMAIN-SUFFIX,tdesktop.com,Outside
 DOMAIN-SUFFIX,techcrunch.com,Outside
+DOMAIN-SUFFIX,technorati.com,Outside
 DOMAIN-SUFFIX,techsmith.com,Outside
+DOMAIN-SUFFIX,teddysun.com,Outside
+DOMAIN-SUFFIX,textnow.me,Outside
+DOMAIN-SUFFIX,thebobs.com,Outside
+DOMAIN-SUFFIX,theinitium.com,Outside
 DOMAIN-SUFFIX,thepiratebay.org,Outside
 DOMAIN-SUFFIX,theverge.com,Outside
+DOMAIN-SUFFIX,thewgo.org,Outside
+DOMAIN-SUFFIX,tiltbrush.com,Outside
 DOMAIN-SUFFIX,time.com,Outside
 DOMAIN-SUFFIX,timeinc.net,Outside
+DOMAIN-SUFFIX,tinder.com,Outside
 DOMAIN-SUFFIX,tiny.cc,Outside
+DOMAIN-SUFFIX,tinychat.com,Outside
 DOMAIN-SUFFIX,tinypic.com,Outside
 DOMAIN-SUFFIX,tmblr.co,Outside
 DOMAIN-SUFFIX,todoist.com,Outside
+DOMAIN-SUFFIX,togetter.com,Outside
+DOMAIN-SUFFIX,tokyocn.com,Outside
+DOMAIN-SUFFIX,tomshardware.com,Outside
+DOMAIN-SUFFIX,torcn.com,Outside
+DOMAIN-SUFFIX,torrentprivacy.com,Outside
+DOMAIN-SUFFIX,torrentproject.se,Outside
+DOMAIN-SUFFIX,torrentz.eu,Outside
+DOMAIN-SUFFIX,tradingview.com,Outside
+DOMAIN-SUFFIX,traffichaus.com,Outside
+DOMAIN-SUFFIX,trakt.tv,Outside
+DOMAIN-SUFFIX,transparency.org,Outside
 DOMAIN-SUFFIX,trello.com,Outside
+DOMAIN-SUFFIX,trendsmap.com,Outside
+DOMAIN-SUFFIX,trulyergonomic.com,Outside
 DOMAIN-SUFFIX,trustasiassl.com,Outside
+DOMAIN-SUFFIX,tt-rss.org,Outside
+DOMAIN-SUFFIX,ttvnw.net,Outside
 DOMAIN-SUFFIX,tumblr.co,Outside
 DOMAIN-SUFFIX,tumblr.com,Outside
+DOMAIN-SUFFIX,turbobit.net,Outside
+DOMAIN-SUFFIX,tv.com,Outside
 DOMAIN-SUFFIX,tweetdeck.com,Outside
 DOMAIN-SUFFIX,tweetmarker.net,Outside
-DOMAIN-SUFFIX,twitch.tv,Outside,force-remote-dns
+DOMAIN-SUFFIX,twimg.co,Outside
+DOMAIN-SUFFIX,twitch.tv,Outside
+DOMAIN-SUFFIX,twitthat.com,Outside
+DOMAIN-SUFFIX,twtkr.com,Outside
+DOMAIN-SUFFIX,twttr.com,Outside
 DOMAIN-SUFFIX,txmblr.com,Outside
+DOMAIN-SUFFIX,typcn.com,Outside
 DOMAIN-SUFFIX,typekit.net,Outside
+DOMAIN-SUFFIX,typography.com,Outside
 DOMAIN-SUFFIX,ubertags.com,Outside
 DOMAIN-SUFFIX,ublock.org,Outside
 DOMAIN-SUFFIX,ubnt.com,Outside
+DOMAIN-SUFFIX,uchicago.edu,Outside
+DOMAIN-SUFFIX,udn.com,Outside
+DOMAIN-SUFFIX,ugo.com,Outside
+DOMAIN-SUFFIX,uhdwallpapers.org,Outside
 DOMAIN-SUFFIX,ulyssesapp.com,Outside
+DOMAIN-SUFFIX,unblockdmm.com,Outside
+DOMAIN-SUFFIX,unblocksites.co,Outside
+DOMAIN-SUFFIX,unpo.org,Outside
+DOMAIN-SUFFIX,unsplash.com,Outside
+DOMAIN-SUFFIX,untraceable.us,Outside
+DOMAIN-SUFFIX,uploaded.net,Outside
+DOMAIN-SUFFIX,uOutside.org,Outside
+DOMAIN-SUFFIX,upwork.com,Outside
 DOMAIN-SUFFIX,urchin.com,Outside
+DOMAIN-SUFFIX,urlparser.com,Outside
+DOMAIN-SUFFIX,us.to,Outside
 DOMAIN-SUFFIX,usertrust.com,Outside
+DOMAIN-SUFFIX,usgs.gov,Outside
+DOMAIN-SUFFIX,usma.edu,Outside
+DOMAIN-SUFFIX,uspto.gov,Outside
+DOMAIN-SUFFIX,ustream.tv,Outside
 DOMAIN-SUFFIX,v.gd,Outside
+DOMAIN-SUFFIX,v2ex.co,Outside
 DOMAIN-SUFFIX,v2ex.com,Outside
+DOMAIN-SUFFIX,v2ray.com,Outside
+DOMAIN-SUFFIX,van001.com,Outside
+DOMAIN-SUFFIX,vanpeople.com,Outside
+DOMAIN-SUFFIX,vansky.com,Outside
+DOMAIN-SUFFIX,vbstatic.co,Outside
+DOMAIN-SUFFIX,venchina.com,Outside
+DOMAIN-SUFFIX,venturebeat.com,Outside
+DOMAIN-SUFFIX,veoh.com,Outside
+DOMAIN-SUFFIX,verizonwireless.com,Outside
+DOMAIN-SUFFIX,viber.com,Outside
+DOMAIN-SUFFIX,vid.me,Outside
+DOMAIN-SUFFIX,videomega.tv,Outside
+DOMAIN-SUFFIX,vidinfo.org,Outside
 DOMAIN-SUFFIX,vimeo.com,Outside
 DOMAIN-SUFFIX,vimeocdn.com,Outside
+DOMAIN-SUFFIX,vimperator.org,Outside
 DOMAIN-SUFFIX,vine.co,Outside
+DOMAIN-SUFFIX,visibletweets.com,Outside
+DOMAIN-SUFFIX,viu.com,Outside
 DOMAIN-SUFFIX,vivaldi.com,Outside
+DOMAIN-SUFFIX,voachinese.com,Outside
+DOMAIN-SUFFIX,vocativ.com,Outside
 DOMAIN-SUFFIX,vox-cdn.com,Outside
+DOMAIN-SUFFIX,vpnaccount.org,Outside
+DOMAIN-SUFFIX,vpnbook.com,Outside
+DOMAIN-SUFFIX,vpngate.net,Outside
 DOMAIN-SUFFIX,vsco.co,Outside
 DOMAIN-SUFFIX,vultr.com,Outside
+DOMAIN-SUFFIX,vzw.com,Outside
 DOMAIN-SUFFIX,w.org,Outside
 DOMAIN-SUFFIX,w3schools.com,Outside
+DOMAIN-SUFFIX,wattpad.com,Outside
+DOMAIN-SUFFIX,web2project.net,Outside
+DOMAIN-SUFFIX,webfreer.com,Outside
+DOMAIN-SUFFIX,weblagu.com,Outside
+DOMAIN-SUFFIX,websnapr.com,Outside
 DOMAIN-SUFFIX,webtype.com,Outside
-DOMAIN-SUFFIX,wikiwand.com,Outside
+DOMAIN-SUFFIX,webwarper.net,Outside
+DOMAIN-SUFFIX,wenxuecity.com,Outside
+DOMAIN-SUFFIX,westca.com,Outside
+DOMAIN-SUFFIX,westpoint.edu,Outside
+DOMAIN-SUFFIX,whatbrowser.org,Outside
+DOMAIN-SUFFIX,wikileaks.info,Outside
 DOMAIN-SUFFIX,wikileaks.org,Outside
+DOMAIN-SUFFIX,wikileaks-forum.com,Outside
 DOMAIN-SUFFIX,wikimedia.org,Outside
 DOMAIN-SUFFIX,wikipedia.com,Outside
 DOMAIN-SUFFIX,wikipedia.org,Outside
-DOMAIN-SUFFIX,wire.com,Outside
+DOMAIN-SUFFIX,wn.com,Outside
 DOMAIN-SUFFIX,wordpress.com,Outside
+DOMAIN-SUFFIX,workflow.is,Outside
 DOMAIN-SUFFIX,workflowy.com,Outside
+DOMAIN-SUFFIX,worldcat.org,Outside
+DOMAIN-SUFFIX,wow.com,Outside
 DOMAIN-SUFFIX,wp.com,Outside
 DOMAIN-SUFFIX,wsj.com,Outside
 DOMAIN-SUFFIX,wsj.net,Outside
+DOMAIN-SUFFIX,wwitv.com,Outside
+DOMAIN-SUFFIX,xanga.com,Outside
+DOMAIN-SUFFIX,xclient.info,Outside
 DOMAIN-SUFFIX,xda-developers.com,Outside
 DOMAIN-SUFFIX,xeeno.com,Outside
 DOMAIN-SUFFIX,xiti.com,Outside
+DOMAIN-SUFFIX,xteko.com,Outside
+DOMAIN-SUFFIX,xuite.net,Outside
+DOMAIN-SUFFIX,xvideos.com,Outside
 DOMAIN-SUFFIX,yahoo.com,Outside
+DOMAIN-SUFFIX,yahooapis.com,Outside
+DOMAIN-SUFFIX,yasni.co.uk,Outside
+DOMAIN-SUFFIX,yastatic.net,Outside
+DOMAIN-SUFFIX,yeeyi.com,Outside
+DOMAIN-SUFFIX,yesasia.com,Outside
+DOMAIN-SUFFIX,yes-news.com,Outside
+DOMAIN-SUFFIX,yidio.com,Outside
 DOMAIN-SUFFIX,yimg.com,Outside
 DOMAIN-SUFFIX,ying.com,Outside
+DOMAIN-SUFFIX,yorkbbs.ca,Outside
+DOMAIN-SUFFIX,youmaker.com,Outside
+DOMAIN-SUFFIX,yourlisten.com,Outside
+DOMAIN-SUFFIX,youtu.be,Outside
 DOMAIN-SUFFIX,yoyo.org,Outside
 DOMAIN-SUFFIX,ytimg.com,Outside
+DOMAIN-SUFFIX,zacebook.com,Outside
+DOMAIN-SUFFIX,zalmos.com,Outside
+DOMAIN-SUFFIX,zaobao.com.sg,Outside
+DOMAIN-SUFFIX,zeutch.com,Outside
+DOMAIN-SUFFIX,zynamics.com,Outside
+
+# > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Outside
+USER-AGENT,WhatsApp*,Outside
+
+DOMAIN-KEYWORD,DIRECTdaily,Outside
+DOMAIN-KEYWORD,beetalk,Outside
+DOMAIN-KEYWORD,blogspot,Outside
+DOMAIN-KEYWORD,dropbox,Outside
+DOMAIN-KEYWORD,facebook,Outside
+DOMAIN-KEYWORD,github,Outside
+DOMAIN-KEYWORD,instagram,Outside
+DOMAIN-KEYWORD,porn,Outside
+DOMAIN-KEYWORD,twitter,Outside
+DOMAIN-KEYWORD,whatsapp,Outside
+DOMAIN-KEYWORD,google,Outside
+DOMAIN-SUFFIX,1e100.net,Outside
+DOMAIN-SUFFIX,2mdn.net,Outside
+DOMAIN-SUFFIX,abc.xyz,Outside
+DOMAIN-SUFFIX,akamai.net,Outside
+DOMAIN-SUFFIX,appspot.com,Outside
+DOMAIN-SUFFIX,autodraw.com,Outside
+DOMAIN-SUFFIX,bandwagonhost.com,Outside
+DOMAIN-SUFFIX,blogblog.com,Outside
+DOMAIN-SUFFIX,chromeexperiments.com,Outside
+DOMAIN-SUFFIX,creativelab5.com,Outside
+DOMAIN-SUFFIX,crittercism.com,Outside
+DOMAIN-SUFFIX,culturalspot.org,Outside
+DOMAIN-SUFFIX,dartlang.org,Outside
+DOMAIN-SUFFIX,fb.com,Outside
+DOMAIN-SUFFIX,fb.me,Outside
+DOMAIN-SUFFIX,fbcdn.net,Outside
+DOMAIN-SUFFIX,fbsbx.com,Outside
+DOMAIN-SUFFIX,gcr.io,Outside
+DOMAIN-SUFFIX,gmail.com,Outside
+DOMAIN-SUFFIX,gosetsuden.jp,Outside
+DOMAIN-SUFFIX,gwtproject.org,Outside
+DOMAIN-SUFFIX,heroku.com,Outside
+DOMAIN-SUFFIX,html5rocks.com,Outside
+DOMAIN-SUFFIX,keyhole.com,Outside
+DOMAIN-SUFFIX,kobo.com,Outside
+DOMAIN-SUFFIX,kobobooks.com,Outside
+DOMAIN-SUFFIX,madewithcode.com,Outside
+DOMAIN-SUFFIX,material.io,Outside
+DOMAIN-SUFFIX,messenger.com,Outside
+DOMAIN-SUFFIX,netmarble.com,Outside
+DOMAIN-SUFFIX,nianticlabs.com,Outside
+DOMAIN-SUFFIX,pinimg.com,Outside
+DOMAIN-SUFFIX,pubnub.com,Outside
+DOMAIN-SUFFIX,scdn.co,Outside
+DOMAIN-SUFFIX,t.co,Outside
+DOMAIN-SUFFIX,tensorflow.org,Outside
+DOMAIN-SUFFIX,toggleable.com,Outside
+DOMAIN-SUFFIX,torproject.org,Outside
+DOMAIN-SUFFIX,twimg.com,Outside
+DOMAIN-SUFFIX,twitpic.com,Outside
+DOMAIN-SUFFIX,unfiltered.news,Outside
+DOMAIN-SUFFIX,waveprotocol.org,Outside
+DOMAIN-SUFFIX,webmproject.org,Outside
+DOMAIN-SUFFIX,webrtc.org,Outside
+
+
+
+# > Amazon
+IP-CIDR,13.32.0.0/16,Outside,no-resolve
+IP-CIDR,13.33.0.0/16,Outside,no-resolve
+IP-CIDR,13.35.0.0/17,Outside,no-resolve
+IP-CIDR,18.184.0.0/15,Outside,no-resolve
+IP-CIDR,18.194.0.0/15,Outside,no-resolve
+IP-CIDR,18.208.0.0/13,Outside,no-resolve
+IP-CIDR,18.232.0.0/14,Outside,no-resolve
+IP-CIDR,52.200.0.0/13,Outside,no-resolve
+IP-CIDR,52.58.0.0/15,Outside,no-resolve
+IP-CIDR,52.74.0.0/16,Outside,no-resolve
+IP-CIDR,52.77.0.0/16,Outside,no-resolve
+IP-CIDR,52.84.0.0/15,Outside,no-resolve
+IP-CIDR,54.156.0.0/14,Outside,no-resolve
+IP-CIDR,54.226.0.0/15,Outside,no-resolve
+IP-CIDR,54.230.156.0/22,Outside,no-resolve
+IP-CIDR,54.93.0.0/16,Outside,no-resolve
+
+# > Facebook
+IP-CIDR,103.4.96.0/22,Outside,no-resolve
+IP-CIDR,129.134.0.0/17,Outside,no-resolve
+IP-CIDR,157.240.0.0/17,Outside,no-resolve
+IP-CIDR,173.252.64.0/19,Outside,no-resolve
+IP-CIDR,173.252.96.0/19,Outside,no-resolve
+IP-CIDR,179.60.192.0/22,Outside,no-resolve
+IP-CIDR,185.60.216.0/22,Outside,no-resolve
+IP-CIDR,204.15.20.0/22,Outside,no-resolve
+IP-CIDR,31.13.24.0/21,Outside,no-resolve
+IP-CIDR,31.13.64.0/18,Outside,no-resolve
+IP-CIDR,45.64.40.0/22,Outside,no-resolve
+IP-CIDR,66.220.144.0/20,Outside,no-resolve
+IP-CIDR,69.171.224.0/19,Outside,no-resolve
+IP-CIDR,69.63.176.0/20,Outside,no-resolve
+IP-CIDR,74.119.76.0/22,Outside,no-resolve
+
+# > Google
+IP-CIDR,173.194.0.0/16,Outside,no-resolve
+IP-CIDR,74.125.0.0/16,Outside,no-resolve
+
+# > Kakao Talk
+IP-CIDR,1.201.0.0/24,Outside,no-resolve
+IP-CIDR,103.246.56.0/22,Outside,no-resolve
+IP-CIDR,103.27.148.0/22,Outside,no-resolve
+IP-CIDR,110.76.140.0/22,Outside,no-resolve
+IP-CIDR,113.61.104.0/22,Outside,no-resolve
+IP-CIDR,27.0.236.0/22,Outside,no-resolve
+
+# > LINE
+IP-CIDR,103.2.28.0/22,Outside,no-resolve
+IP-CIDR,119.235.224.0/21,Outside,no-resolve
+IP-CIDR,119.235.232.0/23,Outside,no-resolve
+IP-CIDR,119.235.235.0/24,Outside,no-resolve
+IP-CIDR,119.235.236.0/23,Outside,no-resolve
+IP-CIDR,125.6.146.0/24,Outside,no-resolve
+IP-CIDR,125.6.149.0/24,Outside,no-resolve
+IP-CIDR,125.6.190.0/24,Outside,no-resolve
+IP-CIDR,125.209.208.0/20,Outside,no-resolve
+IP-CIDR,203.104.103.0/24,Outside,no-resolve
+IP-CIDR,203.104.128.0/20,Outside,no-resolve
+IP-CIDR,203.174.66.64/26,Outside,no-resolve
+IP-CIDR,203.174.77.0/24,Outside,no-resolve
+
+# > Potato Chat
+IP-CIDR,13.251.24.157/24,Outside,no-resolve
+IP-CIDR,13.251.41.203/24,Outside,no-resolve
+IP-CIDR,17.252.156.147/24,Outside,no-resolve
+IP-CIDR,17.252.157.26/24,Outside,no-resolve
+
+# > SoftLayer
+IP-CIDR,74.86.0.0/16,Outside,no-resolve
+IP-CIDR,75.126.0.0/16,Outside,no-resolve
+IP-CIDR,174.37.0.0/16,Outside,no-resolve
+IP-CIDR,208.43.0.0/16,Outside,no-resolve
