@@ -99,6 +99,11 @@ DOMAIN-SUFFIX,vv.video.qq.com,Mainland
 # > Youku
 IP-CIDR,106.11.0.0/16,Mainland,no-resolve
 
+# > PayPal
+USER-AGENT,PayPal*,Mainland
+DOMAIN-KEYWORD,paypal,Mainland
+DOMAIN-SUFFIX,paypal.com,Mainland
+DOMAIN-SUFFIX,paypalobjects.com,Mainland
 
 # > Netease Music
 DOMAIN,apm.music.163.com,Mainland
