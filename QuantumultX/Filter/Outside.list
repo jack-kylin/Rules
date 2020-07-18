@@ -201,6 +201,39 @@ DOMAIN-SUFFIX,gvt2.com,Outside
 DOMAIN-SUFFIX,youtu.be,Outside
 DOMAIN-SUFFIX,ytimg.com,Outside
 
+# > Spotify
+USER-AGENT,*Spotify*,Outside
+DOMAIN-SUFFIX,pscdn.co,Spotify,Outside
+DOMAIN-SUFFIX,scdn.co,Spotify,Outside
+DOMAIN-SUFFIX,spoti.fi,Spotify,Outside
+DOMAIN-SUFFIX,spotify.com,Spotify,Outside
+DOMAIN-SUFFIX,spotifycdn.net,Spotify,Outside
+
+
+
+# > Telegram
+DOMAIN-SUFFIX,t.me,Outside
+DOMAIN-SUFFIX,tdesktop.com,Outside
+DOMAIN-SUFFIX,telegra.ph,Outside
+DOMAIN-SUFFIX,Outside.me,Outside
+DOMAIN-SUFFIX,Outside.org,Outside
+IP-CIDR,91.108.0.0/16,Outside,no-resolve
+IP-CIDR,109.239.140.0/24,Outside,no-resolve
+IP-CIDR,149.154.160.0/20,Outside,no-resolve
+IP-CIDR6,2001:67c:4e8::/48,Outside,no-resolve
+IP-CIDR6,2001:b28:f23d::/48,Outside,no-resolve
+IP-CIDR6,2001:b28:f23f::/48,Outside,no-resolve
+
+
+
+# > Fast
+DOMAIN-SUFFIX,fast.com,Outside
+
+# > Speedtest by Ookla
+USER-AGENT,SpeedTest*,Outside
+DOMAIN-KEYWORD,speedtest,Outside
+DOMAIN-SUFFIX,ooklaserver.net,Outside
+
 # > Line
 DOMAIN-SUFFIX,lin.ee,Outside
 DOMAIN-SUFFIX,line.me,Outside
