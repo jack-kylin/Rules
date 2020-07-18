@@ -203,11 +203,11 @@ DOMAIN-SUFFIX,ytimg.com,Outside
 
 # > Spotify
 USER-AGENT,*Spotify*,Outside
-DOMAIN-SUFFIX,pscdn.co,Spotify,Outside
-DOMAIN-SUFFIX,scdn.co,Spotify,Outside
-DOMAIN-SUFFIX,spoti.fi,Spotify,Outside
-DOMAIN-SUFFIX,spotify.com,Spotify,Outside
-DOMAIN-SUFFIX,spotifycdn.net,Spotify,Outside
+DOMAIN-SUFFIX,pscdn.co,Outside
+DOMAIN-SUFFIX,scdn.co,Outside
+DOMAIN-SUFFIX,spoti.fi,Outside
+DOMAIN-SUFFIX,spotify.com,Outside
+DOMAIN-SUFFIX,spotifycdn.net,Outside
 
 
 
