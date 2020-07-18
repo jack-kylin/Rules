@@ -59,7 +59,6 @@ DOMAIN-SUFFIX,smtp,Mainland
 # URL-REGEX,(.+\.)?(torrent|announce\.php\?passkey=|tracker|BitTorrent|bt_key|ed2k|find_node|get_peers|info_hash|magnet:|peer_id=|sandai|Thunder|XLLiveUD|xunlei)(\..+)?,Mainland
 
 
-
 # > Bilibili
 USER-AGENT,bili*,Mainland
 USER-AGENT,Bilibili*,Mainland
