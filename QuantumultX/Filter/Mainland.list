@@ -442,4 +442,3 @@ IP-CIDR,192.168.0.0/16,Mainland,no-resolve
 
 # GEOIP 
 GEOIP,CN,Mainland
-
