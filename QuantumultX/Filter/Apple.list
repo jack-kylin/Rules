@@ -1,8 +1,24 @@
-# > Apple-proxy
-DOMAIN,ocsp.apple.com,Apple
-DOMAIN-SUFFIX,digicert.com,Apple
-DOMAIN-SUFFIX,entrust.net,Apple
-DOMAIN,ocsp.verisign.net,Apple
-DOMAIN-SUFFIX,apps.apple.com,Apple,force-remote-dns
-DOMAIN-SUFFIX,itunes.apple.com,Apple,force-remote-dns
-DOMAIN-SUFFIX,blobstore.apple.com,Apple
+# > Apple API
+DOMAIN-SUFFIX,aaplimg.com,Apple
+DOMAIN-SUFFIX,Apple.co,Apple
+DOMAIN-SUFFIX,Apple.com,Apple
+DOMAIN-SUFFIX,Apple-cloudkit.com,Apple
+DOMAIN-SUFFIX,appsto.re,Apple
+DOMAIN-SUFFIX,cdn-apple.com,Apple
+DOMAIN-SUFFIX,icloud.com,Apple
+DOMAIN-SUFFIX,icloud-content.com,Apple
+DOMAIN-SUFFIX,itunes.com,Apple
+DOMAIN-SUFFIX,me.com,Apple
+IP-CIDR,17.0.0.0/8,Apple,no-resolve
+IP-CIDR,63.92.224.0/19,Apple,no-resolve
+IP-CIDR,65.199.22.0/23,Apple,no-resolve
+IP-CIDR,139.178.128.0/18,Apple,no-resolve
+IP-CIDR,144.178.0.0/19,Apple,no-resolve
+IP-CIDR,144.178.36.0/22,Apple,no-resolve
+IP-CIDR,144.178.48.0/20,Apple,no-resolve
+IP-CIDR,192.35.50.0/24,Apple,no-resolve
+IP-CIDR,198.183.17.0/24,Apple,no-resolve
+IP-CIDR,205.180.175.0/24,Apple,no-resolve
+
+# > Apple News
+DOMAIN-SUFFIX,Apple.news,Apple
