@@ -418,7 +418,6 @@ IP-CIDR,1.255.62.0/24,Mainland,no-resolve
 DOMAIN-SUFFIX,cn,Mainland
 
 # > Apple CDN
-# PROCESS-NAME,storedownloadd,Mainland
 USER-AGENT,com.apple.appstored*,Mainland
 DOMAIN,aod.itunes.apple.com,Mainland
 DOMAIN,api.smoot.apple.cn,Mainland
