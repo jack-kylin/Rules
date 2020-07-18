@@ -648,7 +648,7 @@ DOMAIN-SUFFIX,slack.com,Outside
 DOMAIN-SUFFIX,slack-edge.com,Outside
 DOMAIN-SUFFIX,slack-msgs.com,Outside
 DOMAIN-SUFFIX,slideshare.net,Outside
-DOMAIN-SUFFIX,smartdnsOutside.com,Outside
+DOMAIN-SUFFIX,smartdnsproxy.com,Outside
 DOMAIN-SUFFIX,smh.com.au,Outside
 DOMAIN-SUFFIX,snapchat.com,Outside
 DOMAIN-SUFFIX,sndcdn.com,Outside
