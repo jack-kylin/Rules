@@ -850,6 +850,11 @@ DOMAIN-SUFFIX,zynamics.com,Outside
 # > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Outside
 USER-AGENT,WhatsApp*,Outside
 
+DOMAIN-KEYWORD,myitrade.com,Outside
+DOMAIN-KEYWORD,3mb.cn,Outside
+DOMAIN-KEYWORD,castinnet.com,Outside
+DOMAIN-KEYWORD,wjwcn.com,Outside
+DOMAIN-KEYWORD,trade15.com,Outside
 DOMAIN-KEYWORD,DIRECTdaily,Outside
 DOMAIN-KEYWORD,beetalk,Outside
 DOMAIN-KEYWORD,blogspot,Outside
