@@ -3,12 +3,14 @@ DOMAIN-SUFFIX,aaplimg.com,Apple
 DOMAIN-SUFFIX,Apple.co,Apple
 DOMAIN-SUFFIX,Apple.com,Apple
 DOMAIN-SUFFIX,Apple-cloudkit.com,Apple
+DOMAIN-SUFFIX,apple-mapkit.com,Apple
 DOMAIN-SUFFIX,appsto.re,Apple
 DOMAIN-SUFFIX,cdn-apple.com,Apple
 DOMAIN-SUFFIX,icloud.com,Apple
 DOMAIN-SUFFIX,icloud-content.com,Apple
 DOMAIN-SUFFIX,itunes.com,Apple
 DOMAIN-SUFFIX,me.com,Apple
+DOMAIN-SUFFIX,mzstatic.com,Apple
 IP-CIDR,17.0.0.0/8,Apple,no-resolve
 IP-CIDR,63.92.224.0/19,Apple,no-resolve
 IP-CIDR,65.199.22.0/23,Apple,no-resolve
