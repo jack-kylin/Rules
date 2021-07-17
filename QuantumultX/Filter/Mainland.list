@@ -431,9 +431,9 @@ DOMAIN,updates-http.cdn-apple.com,Mainland
 DOMAIN-SUFFIX,ls.apple.com,Mainland
 DOMAIN-SUFFIX,mzstatic.com,Mainland
 
-DOMAIN-SUFFIX,imap.exmail.qq.com,Mainland
-DOMAIN-SUFFIX,smtp.exmail.qq.com,Mainland
-DOMAIN-SUFFIX,pop.exmail.qq.com,Mainland
+DOMAIN,imap.exmail.qq.com,Mainland
+DOMAIN,smtp.exmail.qq.com,Mainland
+DOMAIN,pop.exmail.qq.com,Mainland
 
 IP-CIDR,10.0.0.0/8,Mainland,no-resolve
 IP-CIDR,100.64.0.0/10,Mainland,no-resolve
