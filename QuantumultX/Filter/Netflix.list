@@ -1,5 +1,4 @@
 USER-AGENT,Argo*,Netflix
-PROCESS-NAME,com.netflix.mediaclient
 # > Netflix
 DOMAIN-KEYWORD,netflix,Netflix
 DOMAIN-KEYWORD,dualstack.apiproxy-,Netflix
