@@ -187,20 +187,6 @@ DOMAIN-SUFFIX,viu.com,Outside
 DOMAIN-SUFFIX,viu.tv,Outside
 DOMAIN-SUFFIX,viu.now.com,Outside
 
-# > Youtube Music
-USER-AGENT,*YouTubeMusic*,Outside
-USER-AGENT,*com.google.ios.youtubemusic*,Outside
-
-# > Youtube
-USER-AGENT,*youtube*,Outside
-USER-AGENT,YouTube*,Outside
-DOMAIN-KEYWORD,youtube,Outside
-DOMAIN,yt3.ggpht.com,Outside
-DOMAIN-SUFFIX,googlevideo.com,Outside
-DOMAIN-SUFFIX,gvt2.com,Outside
-DOMAIN-SUFFIX,youtu.be,Outside
-DOMAIN-SUFFIX,ytimg.com,Outside
-
 # > Spotify
 USER-AGENT,*Spotify*,Outside
 DOMAIN-SUFFIX,pscdn.co,Outside
