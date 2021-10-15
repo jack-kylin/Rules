@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,media.icloud-content.com,DIRECT
 DOMAIN-SUFFIX,gateway.icloud.com,DIRECT
 DOMAIN-SUFFIX,metrics.icloud.com,DIRECT
 DOMAIN-SUFFIX,weather-date.apple.com,DIRECT
+DOMAIN-SUFFIX,icloud-content.com,DIRECT
 
 DOMAIN-SUFFIX,aaplimg.com,Apple
 DOMAIN-SUFFIX,apple.co,Apple
@@ -12,7 +13,6 @@ DOMAIN-SUFFIX,apple-mapkit.com,Apple
 DOMAIN-SUFFIX,appsto.re,Apple
 DOMAIN-SUFFIX,cdn-apple.com,Apple
 DOMAIN-SUFFIX,icloud.com,Apple
-DOMAIN-SUFFIX,icloud-content.com,Apple
 DOMAIN-SUFFIX,itunes.com,Apple
 DOMAIN-SUFFIX,me.com,Apple
 DOMAIN-SUFFIX,mzstatic.com,Apple
