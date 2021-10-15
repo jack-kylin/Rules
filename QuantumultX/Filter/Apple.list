@@ -1,4 +1,9 @@
 # > Apple API
+DOMAIN-SUFFIX,media.icloud-content.com,DIRECT
+DOMAIN-SUFFIX,gateway.icloud.com,DIRECT
+DOMAIN-SUFFIX,metrics.icloud.com,DIRECT
+DOMAIN-SUFFIX,weather-date.apple.com,DIRECT
+
 DOMAIN-SUFFIX,aaplimg.com,Apple
 DOMAIN-SUFFIX,apple.co,Apple
 DOMAIN-SUFFIX,apple.com,Apple
