@@ -36,3 +36,36 @@ DOMAIN,gspe1-ssl.ls.apple.com,Apple
 DOMAIN,np-edge.itunes.apple.com,Apple
 DOMAIN,play-edge.itunes.apple.com,Apple
 DOMAIN-SUFFIX,tv.apple.com,Apple
+
+# > Tencent
+DOMAIN,imap.exmail.qq.com,DIRECT
+DOMAIN,smtp.exmail.qq.com,DIRECT
+DOMAIN,pop.exmail.qq.com,DIRECT
+# USER-AGENT,MicroMessenger*
+# USER-AGENT,WeChat*
+# USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
+DOMAIN-SUFFIX,gtimg.com,DIRECT
+DOMAIN-SUFFIX,idqqimg.com,DIRECT
+DOMAIN-SUFFIX,igamecj.com,DIRECT
+DOMAIN-SUFFIX,myapp.com,DIRECT
+DOMAIN-SUFFIX,myqcloud.com,DIRECT
+DOMAIN-SUFFIX,qq.com,DIRECT
+DOMAIN-SUFFIX,qqmail.com,DIRECT
+DOMAIN-SUFFIX,servicewechat.com,DIRECT
+DOMAIN-SUFFIX,tencent.com,DIRECT
+DOMAIN-SUFFIX,tencent-cloud.com,DIRECT
+DOMAIN-SUFFIX,tencent-cloud.net,DIRECT
+DOMAIN-SUFFIX,tenpay.com,DIRECT
+DOMAIN-SUFFIX,wechat.com,DIRECT
+DOMAIN,file-igamecj.akamaized.net,DIRECT
+IP-CIDR,101.32.104.4/32,DIRECT,no-resolve
+IP-CIDR,101.32.104.41/32,DIRECT,no-resolve
+IP-CIDR,101.32.104.56/32,DIRECT,no-resolve
+IP-CIDR,101.32.118.25/32,DIRECT,no-resolve
+IP-CIDR,101.32.133.16/32,DIRECT,no-resolve
+IP-CIDR,101.32.133.53/32,DIRECT,no-resolve
+IP-CIDR,101.32.133.209/32,DIRECT,no-resolve
+IP-CIDR,129.226.3.47/32,DIRECT,no-resolve
+IP-CIDR,129.226.107.244/32,DIRECT,no-resolve
+IP-CIDR,182.254.116.0/24,DIRECT,no-resolve
+IP-CIDR,203.205.254.0/23,DIRECT,no-resolve
