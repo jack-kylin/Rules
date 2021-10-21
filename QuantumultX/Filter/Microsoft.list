@@ -3,7 +3,7 @@ USER-AGENT,OneDrive*,Microsoft
 DOMAIN-KEYWORD,onedrive,Microsoft
 DOMAIN-SUFFIX,azure.com,Microsoft
 DOMAIN-SUFFIX,fabric.io,Microsoft
-DOMAIN-SUFFIX,files.1drv.com,Microsoft
+DOMAIN-SUFFIX,1drv.com,Microsoft
 DOMAIN-SUFFIX,hotmail.com,Microsoft
 DOMAIN-SUFFIX,live.com,Microsoft
 DOMAIN-SUFFIX,live.net,Microsoft
