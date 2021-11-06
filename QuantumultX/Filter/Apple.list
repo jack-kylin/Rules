@@ -7,6 +7,22 @@ DOMAIN-SUFFIX,tesla.cn,DIRECT
 DOMAIN-SUFFIX,tesla-cdn.thron.cn,DIRECT
 DOMAIN-KEYWORD,tesla,DIRECT
 
+USER-AGENT,WeChat*,DIRECT
+USER-AGENT,MicroMessenger*,DIRECT
+USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*,DIRECT
+
+IP-CIDR,101.32.104.4/32,Proxy,no-resolve
+IP-CIDR,101.32.104.41/32,Proxy,no-resolve
+IP-CIDR,101.32.104.56/32,Proxy,no-resolve
+IP-CIDR,101.32.118.25/32,Proxy,no-resolve
+IP-CIDR,101.32.133.16/32,Proxy,no-resolve
+IP-CIDR,101.32.133.53/32,Proxy,no-resolve
+IP-CIDR,101.32.133.209/32,Proxy,no-resolve
+IP-CIDR,129.226.3.47/32,Proxy,no-resolve
+IP-CIDR,129.226.107.244/32,Proxy,no-resolve
+IP-CIDR,182.254.116.0/24,DIRECT,no-resolve
+IP-CIDR,203.205.254.0/23,DIRECT,no-resolve
+
 IP6-CIDR,2402:4e00:8010::/112,DIRECT
 IP6-CIDR,2402:4e00:8020:101::2:0/112,DIRECT
 IP6-CIDR,2408:80f1:31:50::/112,DIRECT
@@ -58,6 +74,14 @@ IP6-CIDR,240E:F7:A070:100::/60,DIRECT
 IP6-CIDR,240E:F7:A070:403::/60,DIRECT
 IP6-CIDR,240E:FF:F100::/44,DIRECT
 
+DOMAIN,hkshort.weixin.qq.com,Proxy
+DOMAIN,hkextshort.weixin.qq.com,Proxy
+DOMAIN,hklong.weixin.qq.com,Proxy
+DOMAIN,hkminorshort.weixin.qq.com,Proxy
+DOMAIN,sgshort.wechat.com,Proxy
+DOMAIN,sgextshort.wechat.com,Proxy
+DOMAIN,sglong.wechat.com,Proxy
+DOMAIN,sgminorshort.wechat.com,Proxy
 DOMAIN,wup.imtt.qq.com,DIRECT
 DOMAIN,slife.xy-asia.com,DIRECT
 DOMAIN,dldir1.qq.com,DIRECT
@@ -93,9 +117,6 @@ DOMAIN-SUFFIX,up-hl.3g.qq.com,DIRECT
 DOMAIN-SUFFIX,lbs.map.qq.com,DIRECT
 DOMAIN-SUFFIX,ue.indoorloc.map.qq.com,DIRECT
 DOMAIN-SUFFIX,apis.map.qq.com,DIRECT
-
-USER-AGENT,WeChat*,DIRECT
-USER-AGENT,MicroMessenger*,DIRECT
 
 DOMAIN,cl1-cn.apple.com,DIRECT
 DOMAIN,cl2-cn.apple.com,DIRECT
