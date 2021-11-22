@@ -69,6 +69,8 @@ DOMAIN-SUFFIX,appleicloud.cn,DIRECT
 DOMAIN-SUFFIX,icloud-apple.cn,DIRECT
 DOMAIN-SUFFIX,icloud.net.cn,DIRECT
 DOMAIN-SUFFIX,icloudapple.cn,DIRECT
+DOMAIN,weather-analytics-events.apple.com,DIRECT
+DOMAIN,weather-data.apple.com,DIRECT
 
 DOMAIN,fmfmobile.icloud.com,Apple
 DOMAIN,fmipmobile.icloud.com,Apple
