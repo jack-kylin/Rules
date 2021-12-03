@@ -121,7 +121,6 @@ DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net,Apple
 DOMAIN-SUFFIX,appldnld.apple.com.akadns.net,Apple
 DOMAIN-SUFFIX,appldnld.apple.com,Apple
 DOMAIN-SUFFIX,appldnld-lb.apple.com.akadns.net,Apple
-DOMAIN-SUFFIX,weather-data.apple.com,Apple
 DOMAIN-SUFFIX,ls.apple.com,Apple
 DOMAIN-SUFFIX,appsto.re,Apple
 DOMAIN-SUFFIX,aaplimg.com,Apple
@@ -214,7 +213,7 @@ DOMAIN-KEYWORD,content.icloud.com.akadns.net,Apple
 USER-AGENT,%E5%9C%B0%E5%9B%BE*,Apple
 USER-AGENT,%E6%9F%A5%E6%89%BE*,Apple
 USER-AGENT,%E8%AE%BE%E7%BD%AE*,Apple
-USER-AGENT,*WeatherFoundation*,Apple
+USER-AGENT,*WeatherFoundation*,DIRECT
 USER-AGENT,*com.apple.mobileme.fmip1,Apple
 USER-AGENT,AppStore*,Apple
 USER-AGENT,AppleNews*,Apple
