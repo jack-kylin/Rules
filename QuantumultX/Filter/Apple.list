@@ -1,7 +1,6 @@
 DOMAIN,imap.exmail.qq.com,DIRECT
 DOMAIN,smtp.exmail.qq.com,DIRECT
 DOMAIN,pop.exmail.qq.com,DIRECT
-DOMAIN,translate.google.cn,Proxy,no-resolve
 
 # > Tesla
 DOMAIN-SUFFIX,tesla.cn,DIRECT
