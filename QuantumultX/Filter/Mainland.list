@@ -1,7 +1,7 @@
 # > Google
-DOMAIN-KEYWORD,mtalk.google.com,DIRECT
-DOMAIN,safebrowsing.googleapis.com,DIRECT
-DOMAIN-SUFFIX,dl.google.com,DIRECT
+DOMAIN-KEYWORD,mtalk.google.com,Proxy
+DOMAIN,safebrowsing.googleapis.com,Proxy
+DOMAIN-SUFFIX,dl.google.com,Proxy
 
 # > Microsoft
 DOMAIN-SUFFIX,msftconnecttest.com,DIRECT
