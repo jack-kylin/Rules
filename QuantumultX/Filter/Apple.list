@@ -3,9 +3,16 @@ DOMAIN,smtp.exmail.qq.com,DIRECT
 DOMAIN,pop.exmail.qq.com,DIRECT
 
 # > Tesla
+DOMAIN,tesla-cdn.thron.cn,DIRECT
+DOMAIN,tesla-cdn.thron.com,DIRECT
+DOMAIN-SUFFIX,solarcity.com,DIRECT
 DOMAIN-SUFFIX,tesla.cn,DIRECT
-DOMAIN-SUFFIX,tesla-cdn.thron.cn,DIRECT
-DOMAIN-KEYWORD,tesla,DIRECT
+DOMAIN-SUFFIX,tesla.com,DIRECT
+DOMAIN-SUFFIX,tesla.com.cn,DIRECT
+DOMAIN-SUFFIX,teslamotors.cn,DIRECT
+DOMAIN-SUFFIX,teslamotors.com,DIRECT
+DOMAIN-SUFFIX,teslamotors.com.cn,DIRECT
+DOMAIN-SUFFIX,ts.la,DIRECT
 
 USER-AGENT,MicroMessenger*,DIRECT
 
